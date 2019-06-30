@@ -1,0 +1,34 @@
+9:27:37 PM|Info|Core.Initialize >> HDT: 1.8.3.3810, Operating System: Windows 10 Enterprise 17763, .NET Framework: 461814
+9:27:37 PM|Info|Updater.StartupUpdateCheck >> Checking for updates
+9:27:37 PM|Info|Updater.GetReleaseUrl >> Downloading releases file
+9:27:38 PM|Info|Updater.GetReleaseUrl >> using 'live' release: https://github.com/HearthSim/HDT-Releases
+9:27:40 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+9:27:41 PM|Info|Updater.SquirrelUpdate >> No new updated available
+9:27:42 PM|Info|SplashScreenWindow.ShowConditional >> Showing splashscreen...
+9:27:42 PM|Info|ThemeManager.LoadThemes >> Found theme: classic
+9:27:42 PM|Info|ThemeManager.LoadThemes >> Found theme: dark
+9:27:42 PM|Info|ThemeManager.LoadThemes >> Found theme: frost
+9:27:42 PM|Info|ThemeManager.LoadThemes >> Found theme: minimal
+9:27:42 PM|Info|GameV2.Reset >> -------- Reset ---------
+9:27:43 PM|Error|JsonSerializer.Load >> System.Security.Cryptography.CryptographicException: Chiave non utilizzabile nello stato specificato.
+
+   at System.Security.Cryptography.ProtectedData.Unprotect(Byte[] encryptedData, Byte[] optionalEntropy, DataProtectionScope scope)
+   at Hearthstone_Deck_Tracker.Utility.JsonSerializer`1.Load() in C:\projects\hearthstone-deck-tracker\Hearthstone Deck Tracker\Utility\JsonSerializer.cs:line 67
+9:27:45 PM|Info|OverlayWindow.SetTopmost >> Hearthstone window not found
+9:27:47 PM|Info|MainWindow.SelectDeck >> Switched to deck: Even Warlock new (v1.0)
+9:27:47 PM|Info|GameV2.Reset >> -------- Reset ---------
+9:27:47 PM|Info|BackupManager.Run >> Running BackupManager
+9:27:47 PM|Info|BackupManager.Run >> Deleting old backup: Backup_10032019.zip
+9:27:47 PM|Info|BackupManager.Run >> Creating backup for today
+9:27:47 PM|Info|PluginManager.LoadPluginsFromPath >> Loading Plugins...
+9:27:47 PM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'C:\Program Files (x86)\Hearthstone\Logs'
+9:27:47 PM|Info|ApiWrapper.UpdateUploadTokenStatus >> Checking token status...
+9:27:48 PM|Info|HsReplayDecks.Load >> Loaded from disk: Count=1875, ServerTS=3/29/2019 7:52:50 PM, Downloaded=3/29/2019 9:34:19 PM Age=5.23:53:28.3024820
+9:27:48 PM|Info|HsReplayDecks.Load >> Cached data was not found or stale. Fetching latest...
+9:27:48 PM|Info|ApiWrapper.GetAvailableDecks >> Fetching available decks...
+9:27:48 PM|Info|HsReplayDecks.Load >> Writing hsreplay_decks.cache to disk...
+9:27:48 PM|Info|HsReplayDecks.Load >> Complete: Count=1910, ServerTS=4/4/2019 7:18:56 PM, Downloaded=4/4/2019 9:27:48 PM Age=00:00:00.0319147
+9:27:48 PM|Info|ApiWrapper.UpdateUploadTokenStatus >> Token is claimed
+9:47:42 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+9:47:45 PM|Info|Updater.SquirrelUpdate >> No new updated available
+9:51:44 PM|Info|MainWindow.Window_Closing >> Shutting down...

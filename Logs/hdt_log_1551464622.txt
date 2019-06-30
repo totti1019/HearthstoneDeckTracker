@@ -1,0 +1,33 @@
+11:51:21 PM|Info|Core.Initialize >> HDT: 1.8.0.3804, Operating System: Windows 10 Enterprise 17763, .NET Framework: 461814
+11:51:22 PM|Info|Updater.StartupUpdateCheck >> Checking for updates
+11:51:22 PM|Info|Updater.GetReleaseUrl >> Downloading releases file
+11:51:22 PM|Info|Updater.GetReleaseUrl >> using 'live' release: https://github.com/HearthSim/HDT-Releases
+11:51:25 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+11:51:27 PM|Info|Updater.SquirrelUpdate >> No new updated available
+11:51:27 PM|Info|SplashScreenWindow.ShowConditional >> Showing splashscreen...
+11:51:27 PM|Info|ThemeManager.LoadThemes >> Found theme: classic
+11:51:27 PM|Info|ThemeManager.LoadThemes >> Found theme: dark
+11:51:27 PM|Info|ThemeManager.LoadThemes >> Found theme: frost
+11:51:27 PM|Info|ThemeManager.LoadThemes >> Found theme: minimal
+11:51:27 PM|Info|GameV2.Reset >> -------- Reset ---------
+11:51:28 PM|Error|JsonSerializer.Load >> System.Security.Cryptography.CryptographicException: Chiave non utilizzabile nello stato specificato.
+
+   at System.Security.Cryptography.ProtectedData.Unprotect(Byte[] encryptedData, Byte[] optionalEntropy, DataProtectionScope scope)
+   at Hearthstone_Deck_Tracker.Utility.JsonSerializer`1.Load() in C:\projects\hearthstone-deck-tracker\Hearthstone Deck Tracker\Utility\JsonSerializer.cs:line 67
+11:51:29 PM|Info|OverlayWindow.SetTopmost >> Hearthstone window not found
+11:51:31 PM|Info|MainWindow.SelectDeck >> Switched to deck: Priest Face (v1.0)
+11:51:31 PM|Info|GameV2.Reset >> -------- Reset ---------
+11:51:31 PM|Info|BackupManager.Run >> Running BackupManager
+11:51:31 PM|Info|BackupManager.Run >> Backup for today already exists
+11:51:31 PM|Info|PluginManager.LoadPluginsFromPath >> Loading Plugins...
+11:51:31 PM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'C:\Program Files (x86)\Hearthstone\Logs'
+11:51:31 PM|Info|ApiWrapper.UpdateUploadTokenStatus >> Checking token status...
+11:51:32 PM|Info|HsReplayDecks.Load >> Loaded from disk: Count=2137, ServerTS=2/24/2019 6:40:27 PM, Downloaded=2/24/2019 8:00:22 PM Age=1.03:51:09.1444970
+11:51:32 PM|Info|HsReplayDecks.Load >> Cached data was not found or stale. Fetching latest...
+11:51:32 PM|Info|ApiWrapper.GetAvailableDecks >> Fetching available decks...
+11:51:32 PM|Info|ApiWrapper.UpdateUploadTokenStatus >> Token is claimed
+11:51:33 PM|Info|HsReplayDecks.Load >> Writing hsreplay_decks.cache to disk...
+11:51:33 PM|Info|HsReplayDecks.Load >> Complete: Count=2184, ServerTS=2/25/2019 10:08:27 PM, Downloaded=2/25/2019 11:51:33 PM Age=00:00:00.0120263
+11:51:33 PM|Info|ApiWrapper.GetDeckWinrates >> Fetching winrates for deck vo3N3QMbjznWUV0kbkTU2f
+11:51:35 PM|Info|ApiWrapper.GetDeckWinrates >> Fetching winrates for deck V0UM90p5PmHnkqVqyzb4C
+11:53:38 PM|Info|MainWindow.Window_Closing >> Shutting down...

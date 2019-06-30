@@ -1,0 +1,130 @@
+6:42:02 PM|Info|Core.Initialize >> HDT: 1.8.5.3815, Operating System: Windows 10 Enterprise 17763, .NET Framework: 461814
+6:42:02 PM|Info|Updater.StartupUpdateCheck >> Checking for updates
+6:42:02 PM|Info|Updater.GetReleaseUrl >> Downloading releases file
+6:42:02 PM|Info|Updater.GetReleaseUrl >> using 'live' release: https://github.com/HearthSim/HDT-Releases
+6:42:04 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+6:42:06 PM|Info|Updater.SquirrelUpdate >> No new updated available
+6:42:06 PM|Info|SplashScreenWindow.ShowConditional >> Showing splashscreen...
+6:42:06 PM|Info|ThemeManager.LoadThemes >> Found theme: classic
+6:42:06 PM|Info|ThemeManager.LoadThemes >> Found theme: dark
+6:42:06 PM|Info|ThemeManager.LoadThemes >> Found theme: frost
+6:42:06 PM|Info|ThemeManager.LoadThemes >> Found theme: minimal
+6:42:06 PM|Info|GameV2.Reset >> -------- Reset ---------
+6:42:07 PM|Error|JsonSerializer.Load >> System.Security.Cryptography.CryptographicException: Chiave non utilizzabile nello stato specificato.
+
+   at System.Security.Cryptography.ProtectedData.Unprotect(Byte[] encryptedData, Byte[] optionalEntropy, DataProtectionScope scope)
+   at Hearthstone_Deck_Tracker.Utility.JsonSerializer`1.Load() in C:\projects\hearthstone-deck-tracker\Hearthstone Deck Tracker\Utility\JsonSerializer.cs:line 67
+6:42:08 PM|Info|OverlayWindow.SetTopmost >> Hearthstone window not found
+6:42:10 PM|Info|MainWindow.SelectDeck >> Switched to deck: Undatakah Druid (v1.0)
+6:42:10 PM|Info|GameV2.Reset >> -------- Reset ---------
+6:42:10 PM|Info|BackupManager.Run >> Running BackupManager
+6:42:10 PM|Info|BackupManager.Run >> Deleting old backup: Backup_14032019.zip
+6:42:10 PM|Info|BackupManager.Run >> Creating backup for today
+6:42:10 PM|Info|PluginManager.LoadPluginsFromPath >> Loading Plugins...
+6:42:10 PM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'C:\Program Files (x86)\Hearthstone\Logs'
+6:42:10 PM|Info|ApiWrapper.UpdateUploadTokenStatus >> Checking token status...
+6:42:10 PM|Info|HsReplayDecks.Load >> Loaded from disk: Count=1926, ServerTS=4/8/2019 6:16:34 PM, Downloaded=4/8/2019 8:57:39 PM Age=1.21:44:31.9109178
+6:42:10 PM|Info|HsReplayDecks.Load >> Cached data was not found or stale. Fetching latest...
+6:42:10 PM|Info|ApiWrapper.GetAvailableDecks >> Fetching available decks...
+6:42:11 PM|Info|ApiWrapper.UpdateUploadTokenStatus >> Token is claimed
+6:42:11 PM|Info|HsReplayDecks.Load >> Writing hsreplay_decks.cache to disk...
+6:42:11 PM|Info|HsReplayDecks.Load >> Complete: Count=2092, ServerTS=4/10/2019 3:26:17 PM, Downloaded=4/10/2019 6:42:11 PM Age=00:00:00.0099731
+6:42:11 PM|Info|ApiWrapper.GetDeckWinrates >> Fetching winrates for deck u81THHk3Bx7sGlHbPcKIEb
+6:42:18 PM|Info|MainWindow.DeleteDeck >> Moved deckstats for deck big to default stats
+6:42:18 PM|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: big
+6:42:18 PM|Info|MainWindow.DeleteDeck >> Deleted deck: big
+6:42:25 PM|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Mazzo Druido
+6:42:25 PM|Info|MainWindow.DeleteDeck >> Deleted deck: Mazzo Druido
+6:42:25 PM|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Mazzo Druido2 to default stats
+6:42:25 PM|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Mazzo Druido2
+6:42:25 PM|Info|MainWindow.DeleteDeck >> Deleted deck: Mazzo Druido2
+6:42:25 PM|Info|DeckList.ActiveDeck >> Set active deck to: 
+6:42:26 PM|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Undatakah Druid to default stats
+6:42:26 PM|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Undatakah Druid
+6:42:26 PM|Info|MainWindow.DeleteDeck >> Deleted deck: Undatakah Druid
+6:42:26 PM|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Mazzo Cacciatore
+6:42:26 PM|Info|MainWindow.DeleteDeck >> Deleted deck: Mazzo Cacciatore
+6:42:26 PM|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Mazzo Cacciatore2 to default stats
+6:42:26 PM|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Mazzo Cacciatore2
+6:42:26 PM|Info|MainWindow.DeleteDeck >> Deleted deck: Mazzo Cacciatore2
+6:42:26 PM|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Midrange Hunter
+6:42:26 PM|Info|MainWindow.DeleteDeck >> Deleted deck: Midrange Hunter
+6:42:26 PM|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Midrange Hunter to default stats
+6:42:26 PM|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Midrange Hunter
+6:42:26 PM|Info|MainWindow.DeleteDeck >> Deleted deck: Midrange Hunter
+6:42:26 PM|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Aggro Mage
+6:42:26 PM|Info|MainWindow.DeleteDeck >> Deleted deck: Aggro Mage
+6:42:26 PM|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Mazzo Paladino
+6:42:26 PM|Info|MainWindow.DeleteDeck >> Deleted deck: Mazzo Paladino
+6:42:28 PM|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Big priest to default stats
+6:42:28 PM|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Big priest
+6:42:28 PM|Info|MainWindow.DeleteDeck >> Deleted deck: Big priest
+6:42:28 PM|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Boh to default stats
+6:42:28 PM|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Boh
+6:42:28 PM|Info|MainWindow.DeleteDeck >> Deleted deck: Boh
+6:42:28 PM|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Dragon priest
+6:42:28 PM|Info|MainWindow.DeleteDeck >> Deleted deck: Dragon priest
+6:42:28 PM|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Mazzo Sacerdote2 to default stats
+6:42:28 PM|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Mazzo Sacerdote2
+6:42:28 PM|Info|MainWindow.DeleteDeck >> Deleted deck: Mazzo Sacerdote2
+6:42:28 PM|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Priest Face to default stats
+6:42:28 PM|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Priest Face
+6:42:28 PM|Info|MainWindow.DeleteDeck >> Deleted deck: Priest Face
+6:42:28 PM|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: TOP20
+6:42:28 PM|Info|MainWindow.DeleteDeck >> Deleted deck: TOP20
+6:42:28 PM|Info|MainWindow.DeleteDeck >> Moved deckstats for deck zerek to default stats
+6:42:28 PM|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: zerek
+6:42:28 PM|Info|MainWindow.DeleteDeck >> Deleted deck: zerek
+6:42:28 PM|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Brawl 29-03 21:35
+6:42:28 PM|Info|MainWindow.DeleteDeck >> Deleted deck: Brawl 29-03 21:35
+6:42:28 PM|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Control Warlock to default stats
+6:42:28 PM|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Control Warlock
+6:42:28 PM|Info|MainWindow.DeleteDeck >> Deleted deck: Control Warlock
+6:42:28 PM|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Even to default stats
+6:42:28 PM|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Even
+6:42:28 PM|Info|MainWindow.DeleteDeck >> Deleted deck: Even
+6:42:28 PM|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Even Warlock new to default stats
+6:42:28 PM|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Even Warlock new
+6:42:28 PM|Info|MainWindow.DeleteDeck >> Deleted deck: Even Warlock new
+6:42:28 PM|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Mazzo Stregone to default stats
+6:42:28 PM|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Mazzo Stregone
+6:42:28 PM|Info|MainWindow.DeleteDeck >> Deleted deck: Mazzo Stregone
+6:42:31 PM|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Mazzo Stregone to default stats
+6:42:31 PM|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Mazzo Stregone
+6:42:31 PM|Info|MainWindow.DeleteDeck >> Deleted deck: Mazzo Stregone
+6:42:31 PM|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Mazzo Stregone2
+6:42:31 PM|Info|MainWindow.DeleteDeck >> Deleted deck: Mazzo Stregone2
+6:42:31 PM|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Mazzo Stregone2 to default stats
+6:42:31 PM|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Mazzo Stregone2
+6:42:31 PM|Info|MainWindow.DeleteDeck >> Deleted deck: Mazzo Stregone2
+6:42:31 PM|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Mazzo Guerriero
+6:42:31 PM|Info|MainWindow.DeleteDeck >> Deleted deck: Mazzo Guerriero
+6:42:31 PM|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Odd Quest Warrior
+6:42:31 PM|Info|MainWindow.DeleteDeck >> Deleted deck: Odd Quest Warrior
+6:42:31 PM|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Odd Warrior to default stats
+6:42:31 PM|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Odd Warrior
+6:42:31 PM|Info|MainWindow.DeleteDeck >> Deleted deck: Odd Warrior
+6:42:31 PM|Info|GameV2.Reset >> -------- Reset ---------
+6:42:32 PM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'C:\Program Files (x86)\Hearthstone\Logs'
+18:43:00|Info|LogWatcherManager.OnLogFileFound >> LoadingScreen
+6:43:00 PM|Info|GameV2.CurrentMode >> LOGIN
+18:43:03|Info|LogWatcherManager.OnLogFileFound >> Achievements
+6:43:04 PM|Info|Helper.GetCurrentRegion >> Region: EU
+6:43:04 PM|Info|BackupManager.Run >> Running BackupManager
+6:43:04 PM|Info|BackupManager.Run >> Backup for today already exists
+6:43:04 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+18:43:10|Info|LogWatcherManager.OnLogFileFound >> FullScreenFX
+6:43:12 PM|Info|GameV2.CurrentMode >> HUB
+6:43:12 PM|Info|LoadingScreenHandler.CheckMirrorStatus >> Mirror status: Ok
+6:43:14 PM|Info|GameV2.CurrentMode >> COLLECTIONMANAGER
+6:59:14 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+6:59:16 PM|Info|Core.UpdateOverlayAsync >> Exited game
+6:59:16 PM|Info|Core.UpdateOverlayAsync >> Reset region
+6:59:16 PM|Info|GameV2.Reset >> -------- Reset ---------
+6:59:17 PM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'C:\Program Files (x86)\Hearthstone\Logs'
+7:02:04 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+7:02:06 PM|Info|Updater.SquirrelUpdate >> No new updated available
+7:22:05 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+7:22:07 PM|Info|Updater.SquirrelUpdate >> No new updated available
+7:30:14 PM|Info|OverlayWindow.SetTopmost >> Hearthstone window not found
+7:30:55 PM|Info|MainWindow.Window_Closing >> Shutting down...

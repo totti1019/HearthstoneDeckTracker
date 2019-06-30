@@ -1,0 +1,35 @@
+6:27:48 PM|Info|Core.Initialize >> HDT: 1.8.2.3808, Operating System: Windows 10 Enterprise 17763, .NET Framework: 461814
+6:27:48 PM|Info|Updater.StartupUpdateCheck >> Checking for updates
+6:27:48 PM|Info|Updater.GetReleaseUrl >> Downloading releases file
+6:27:49 PM|Info|Updater.GetReleaseUrl >> using 'live' release: https://github.com/HearthSim/HDT-Releases
+6:27:51 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+6:27:52 PM|Info|Updater.SquirrelUpdate >> No new updated available
+6:27:53 PM|Info|SplashScreenWindow.ShowConditional >> Showing splashscreen...
+6:27:53 PM|Info|ThemeManager.LoadThemes >> Found theme: classic
+6:27:53 PM|Info|ThemeManager.LoadThemes >> Found theme: dark
+6:27:53 PM|Info|ThemeManager.LoadThemes >> Found theme: frost
+6:27:53 PM|Info|ThemeManager.LoadThemes >> Found theme: minimal
+6:27:53 PM|Info|GameV2.Reset >> -------- Reset ---------
+6:27:53 PM|Error|JsonSerializer.Load >> System.Security.Cryptography.CryptographicException: Chiave non utilizzabile nello stato specificato.
+
+   at System.Security.Cryptography.ProtectedData.Unprotect(Byte[] encryptedData, Byte[] optionalEntropy, DataProtectionScope scope)
+   at Hearthstone_Deck_Tracker.Utility.JsonSerializer`1.Load() in C:\projects\hearthstone-deck-tracker\Hearthstone Deck Tracker\Utility\JsonSerializer.cs:line 67
+6:27:55 PM|Info|OverlayWindow.SetTopmost >> Hearthstone window not found
+6:27:56 PM|Info|MainWindow.SelectDeck >> Switched to deck: big (v1.0)
+6:27:56 PM|Info|GameV2.Reset >> -------- Reset ---------
+6:27:57 PM|Info|BackupManager.Run >> Running BackupManager
+6:27:57 PM|Info|BackupManager.Run >> Deleting old backup: Backup_01032019.zip
+6:27:57 PM|Info|BackupManager.Run >> Creating backup for today
+6:27:57 PM|Info|PluginManager.LoadPluginsFromPath >> Loading Plugins...
+6:27:57 PM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'C:\Program Files (x86)\Hearthstone\Logs'
+6:27:57 PM|Info|ApiWrapper.UpdateUploadTokenStatus >> Checking token status...
+6:27:57 PM|Info|HsReplayDecks.Load >> Loaded from disk: Count=1807, ServerTS=3/14/2019 5:25:00 PM, Downloaded=3/14/2019 6:27:15 PM Age=1.00:00:41.9573736
+6:27:57 PM|Info|HsReplayDecks.Load >> Cached data was not found or stale. Fetching latest...
+6:27:57 PM|Info|ApiWrapper.GetAvailableDecks >> Fetching available decks...
+6:27:58 PM|Info|ApiWrapper.UpdateUploadTokenStatus >> Token is claimed
+6:27:58 PM|Info|HsReplayDecks.Load >> Writing hsreplay_decks.cache to disk...
+6:27:58 PM|Info|HsReplayDecks.Load >> Complete: Count=1859, ServerTS=3/15/2019 4:22:19 PM, Downloaded=3/15/2019 6:27:58 PM Age=00:00:00.0139621
+6:41:48 PM|Info|HSReplayNetOAuth.Authenticate >> Authenticating with HSReplay.net...
+6:41:48 PM|Info|HSReplayNetOAuth.Authenticate >> [Helper.TryOpenUrl] https://hsreplay.net/oauth2/authorize/?response_type=code&client_id=jIpNwuUWLFI6S3oeQkO3xlW6UCnfogw1IpAbFXqq&redirect_uri=http://localhost:17781/&scope=fullaccess&state=a0ded436-216d-44ff-a12c-80b40354a0ac
+6:41:48 PM|Info|HSReplayNetOAuth.Authenticate >> Waiting for callback...
+6:44:35 PM|Info|MainWindow.Window_Closing >> Shutting down...

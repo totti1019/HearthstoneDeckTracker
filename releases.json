@@ -1,0 +1,5 @@
+{
+	"dev": "https://github.com/HearthSim/HDT-dev-builds",
+	"live": "https://github.com/HearthSim/HDT-Releases",
+	"live-china": "https://hdt-downloads-asia.s3-accelerate.dualstack.amazonaws.com"
+}
