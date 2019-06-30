@@ -77,7 +77,7 @@
   <CloseToTray>false</CloseToTray>
   <CloseWithHearthstone>false</CloseWithHearthstone>
   <StartHearthstoneWithHDT>false</StartHearthstoneWithHDT>
-  <CreatedByVersion>1.8.11.3830</CreatedByVersion>
+  <CreatedByVersion>1.8.12.3834</CreatedByVersion>
   <CustomDisplayedTimeFrame xsi:nil="true" />
   <CustomHeight>-1</CustomHeight>
   <CustomWidth>-1</CustomWidth>
@@ -343,8 +343,8 @@
   <UseSameScaling>true</UseSameScaling>
   <VisibleOverlay>false</VisibleOverlay>
   <WindowCardToolTips>true</WindowCardToolTips>
-  <WindowHeight>737</WindowHeight>
-  <WindowWidth>1100</WindowWidth>
+  <WindowHeight>694</WindowHeight>
+  <WindowWidth>1294</WindowWidth>
   <WindowsBackgroundHex>#696969</WindowsBackgroundHex>
   <WindowsTopmost>false</WindowsTopmost>
   <WindowsTopmostIfHsForeground>false</WindowsTopmostIfHsForeground>

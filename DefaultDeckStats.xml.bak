@@ -24884,6 +24884,2431 @@
             <Card Id="LOOT_520" Count="2" />
           </OpponentCards>
         </Game>
+        <Game>
+          <GameId>e85f91a2-511e-4f13-8f0d-90da1b3041d1</GameId>
+          <PlayerHero>Mage</PlayerHero>
+          <OpponentHero>Druid</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>9</Turns>
+          <StartTime>2019-04-17T20:52:21.3524866+02:00</StartTime>
+          <EndTime>2019-04-17T20:57:47.9940153+02:00</EndTime>
+          <PlayerName>totti1019#2201</PlayerName>
+          <OpponentName>SMOyZ1#2765</OpponentName>
+          <ReplayFile>totti1019#2201(Mage) vs SMOyZ1#2765(Druid) 2057-170419.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>6</Rank>
+          <Stars>1</Stars>
+          <OpponentRank>6</OpponentRank>
+          <HearthstoneBuild>30103</HearthstoneBuild>
+          <PlayerCardbackId>157</PlayerCardbackId>
+          <OpponentCardbackId>164</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.188</Address>
+            <AuroraPassword>dmELiJ</AuroraPassword>
+            <ClientHandle>45357485</ClientHandle>
+            <GameHandle>10485779</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>fIEGGn</SpectatorPassword>
+            <Version>1037744</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>66</RankedSeasonId>
+          <OpponentHeroCardId>HERO_06</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>ba0adba0-2068-490f-9784-1690a2c8ec45</DeckId>
+          <DeckName>Duca Mago</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsDeckId>1773830573</HsDeckId>
+          <PlayerCards>
+            <Card Id="TRL_523" Count="2" />
+            <Card Id="EX1_105" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_575" Count="1" />
+            <Card Id="GIL_548" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_609" Count="1" />
+            <Card Id="EX1_066" Count="1" />
+            <Card Id="DAL_177" Count="2" Unconfirmed="1" />
+            <Card Id="BOT_548" Count="1" />
+            <Card Id="TRL_569" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_088" Count="1" />
+            <Card Id="GIL_601" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_058" Count="2" Unconfirmed="2" />
+            <Card Id="DAL_163" Count="2" Unconfirmed="2" />
+            <Card Id="EX1_043" Count="2" Unconfirmed="2" />
+            <Card Id="TRL_526" Count="2" Unconfirmed="2" />
+            <Card Id="EX1_558" Count="1" Unconfirmed="1" />
+            <Card Id="BOT_256" Count="2" Unconfirmed="2" />
+            <Card Id="DAL_578" Count="2" Unconfirmed="2" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="DAL_354" Count="1" />
+            <Card Id="DAL_400" Count="1" />
+            <Card Id="DAL_351" Count="1" />
+            <Card Id="BOT_420" Count="1" />
+            <Card Id="CS2_011" Count="2" />
+            <Card Id="EX1_158" Count="1" />
+            <Card Id="GIL_553" Count="1" />
+            <Card Id="TRL_254" Count="1" />
+            <Card Id="CS2_012" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>241a0be9-f67e-4670-8647-26a5dd113393</GameId>
+          <PlayerHero>Mage</PlayerHero>
+          <OpponentHero>Mage</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>11</Turns>
+          <StartTime>2019-04-17T20:58:06.8496069+02:00</StartTime>
+          <EndTime>2019-04-17T21:07:09.9897152+02:00</EndTime>
+          <PlayerName>totti1019#2201</PlayerName>
+          <OpponentName>Gudor#2851</OpponentName>
+          <ReplayFile>totti1019#2201(Mage) vs Gudor#2851(Mage) 2107-170419.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>6</Rank>
+          <OpponentRank>7</OpponentRank>
+          <HearthstoneBuild>30103</HearthstoneBuild>
+          <PlayerCardbackId>157</PlayerCardbackId>
+          <OpponentCardbackId>5</OpponentCardbackId>
+          <FriendlyPlayerId>2</FriendlyPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.205</Address>
+            <AuroraPassword>FiEipe</AuroraPassword>
+            <ClientHandle>45357485</ClientHandle>
+            <GameHandle>30539794</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>kmHdoo</SpectatorPassword>
+            <Version>1037744</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>66</RankedSeasonId>
+          <OpponentHeroCardId>HERO_08</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>ba0adba0-2068-490f-9784-1690a2c8ec45</DeckId>
+          <DeckName>Duca Mago</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsDeckId>1773830573</HsDeckId>
+          <PlayerCards>
+            <Card Id="EX1_105" Count="2" />
+            <Card Id="GIL_548" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_043" Count="2" />
+            <Card Id="DAL_163" Count="2" />
+            <Card Id="DAL_609" Count="1" />
+            <Card Id="BOT_256" Count="2" Unconfirmed="1" />
+            <Card Id="TRL_523" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_578" Count="2" Unconfirmed="1" />
+            <Card Id="TRL_526" Count="2" />
+            <Card Id="DAL_088" Count="1" />
+            <Card Id="DAL_177" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_058" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_558" Count="1" />
+            <Card Id="DAL_575" Count="1" Unconfirmed="1" />
+            <Card Id="EX1_066" Count="1" Unconfirmed="1" />
+            <Card Id="GIL_601" Count="2" Unconfirmed="2" />
+            <Card Id="BOT_548" Count="1" Unconfirmed="1" />
+            <Card Id="TRL_569" Count="2" Unconfirmed="2" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="DAL_575" Count="1" />
+            <Card Id="GIL_548" Count="1" />
+            <Card Id="TRL_523" Count="1" />
+            <Card Id="DAL_177" Count="1" />
+            <Card Id="DAL_163" Count="1" />
+            <Card Id="EX1_085" Count="1" />
+            <Card Id="EX1_043" Count="2" />
+            <Card Id="GIL_601" Count="1" />
+            <Card Id="BOT_548" Count="1" />
+            <Card Id="DAL_578" Count="1" />
+            <Card Id="EX1_561" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>9faee6e3-e6c2-4677-9641-c94f7e313a1e</GameId>
+          <PlayerHero>Mage</PlayerHero>
+          <OpponentHero>Druid</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>7</Turns>
+          <StartTime>2019-04-17T21:07:34.3992986+02:00</StartTime>
+          <EndTime>2019-04-17T21:11:54.6827006+02:00</EndTime>
+          <PlayerName>totti1019#2201</PlayerName>
+          <OpponentName>Osmissplay#2194</OpponentName>
+          <ReplayFile>totti1019#2201(Mage) vs Osmissplay#2194(Druid) 2111-170419.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>6</Rank>
+          <Stars>1</Stars>
+          <OpponentRank>6</OpponentRank>
+          <HearthstoneBuild>30103</HearthstoneBuild>
+          <PlayerCardbackId>157</PlayerCardbackId>
+          <OpponentCardbackId>160</OpponentCardbackId>
+          <FriendlyPlayerId>2</FriendlyPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.71</Address>
+            <AuroraPassword>fNOJnm</AuroraPassword>
+            <ClientHandle>45357485</ClientHandle>
+            <GameHandle>5636117</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>LaaiEN</SpectatorPassword>
+            <Version>1037744</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>66</RankedSeasonId>
+          <OpponentHeroCardId>HERO_06</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>ba0adba0-2068-490f-9784-1690a2c8ec45</DeckId>
+          <DeckName>Duca Mago</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsDeckId>1773830573</HsDeckId>
+          <PlayerCards>
+            <Card Id="DAL_163" Count="2" />
+            <Card Id="DAL_088" Count="1" />
+            <Card Id="DAL_177" Count="2" />
+            <Card Id="EX1_105" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_043" Count="2" Unconfirmed="1" />
+            <Card Id="TRL_526" Count="2" Unconfirmed="1" />
+            <Card Id="BOT_256" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_578" Count="2" Unconfirmed="1" />
+            <Card Id="GIL_601" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_058" Count="2" Unconfirmed="2" />
+            <Card Id="DAL_575" Count="1" Unconfirmed="1" />
+            <Card Id="GIL_548" Count="2" Unconfirmed="2" />
+            <Card Id="EX1_066" Count="1" Unconfirmed="1" />
+            <Card Id="TRL_523" Count="2" Unconfirmed="2" />
+            <Card Id="EX1_558" Count="1" Unconfirmed="1" />
+            <Card Id="BOT_548" Count="1" Unconfirmed="1" />
+            <Card Id="TRL_569" Count="2" Unconfirmed="2" />
+            <Card Id="DAL_609" Count="1" Unconfirmed="1" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="DAL_354" Count="2" />
+            <Card Id="DAL_732" Count="1" />
+            <Card Id="EX1_154" Count="1" />
+            <Card Id="EX1_160" Count="1" />
+            <Card Id="GIL_553" Count="1" />
+            <Card Id="TRL_254" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>4f68b075-5c26-4d7f-b33f-94a9ddfc0872</GameId>
+          <PlayerHero>Mage</PlayerHero>
+          <OpponentHero>Warrior</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>20</Turns>
+          <StartTime>2019-04-17T21:12:20.2620442+02:00</StartTime>
+          <EndTime>2019-04-17T21:31:37.9323267+02:00</EndTime>
+          <PlayerName>totti1019#2201</PlayerName>
+          <OpponentName>Alkis#2595</OpponentName>
+          <ReplayFile>totti1019#2201(Mage) vs Alkis#2595(Warrior) 2131-170419.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>6</Rank>
+          <Stars>2</Stars>
+          <OpponentRank>6</OpponentRank>
+          <HearthstoneBuild>30103</HearthstoneBuild>
+          <PlayerCardbackId>157</PlayerCardbackId>
+          <OpponentCardbackId>157</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.185</Address>
+            <AuroraPassword>KCFOaI</AuroraPassword>
+            <ClientHandle>45357485</ClientHandle>
+            <GameHandle>36962323</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>dlicmg</SpectatorPassword>
+            <Version>1037744</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>66</RankedSeasonId>
+          <OpponentHeroCardId>HERO_01</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>ba0adba0-2068-490f-9784-1690a2c8ec45</DeckId>
+          <DeckName>Duca Mago</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsDeckId>1773830573</HsDeckId>
+          <PlayerCards>
+            <Card Id="EX1_058" Count="2" />
+            <Card Id="TRL_523" Count="2" />
+            <Card Id="BOT_548" Count="1" />
+            <Card Id="DAL_177" Count="2" />
+            <Card Id="TRL_526" Count="2" />
+            <Card Id="EX1_105" Count="2" />
+            <Card Id="TRL_569" Count="2" />
+            <Card Id="DAL_578" Count="2" />
+            <Card Id="EX1_043" Count="2" />
+            <Card Id="GIL_548" Count="2" />
+            <Card Id="DAL_163" Count="2" />
+            <Card Id="GIL_601" Count="2" />
+            <Card Id="DAL_575" Count="1" />
+            <Card Id="EX1_558" Count="1" />
+            <Card Id="DAL_088" Count="1" />
+            <Card Id="DAL_609" Count="1" />
+            <Card Id="BOT_256" Count="2" />
+            <Card Id="EX1_066" Count="1" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="BOT_299" Count="2" />
+            <Card Id="EX1_410" Count="2" />
+            <Card Id="BOT_059" Count="1" />
+            <Card Id="GIL_580" Count="1" />
+            <Card Id="EX1_391" Count="2" />
+            <Card Id="GIL_654" Count="2" />
+            <Card Id="EX1_007" Count="1" />
+            <Card Id="BOT_559" Count="1" />
+            <Card Id="DAL_060" Count="2" />
+            <Card Id="EX1_606" Count="1" />
+            <Card Id="GIL_803" Count="2" />
+            <Card Id="DAL_063" Count="2" />
+            <Card Id="BOT_104" Count="2" />
+            <Card Id="EX1_407" Count="2" />
+            <Card Id="BOT_548" Count="1" />
+            <Card Id="DAL_064" Count="1" />
+            <Card Id="BOT_238" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>25a5f701-d914-4758-b3ba-6d336b0307c6</GameId>
+          <PlayerHero>Mage</PlayerHero>
+          <OpponentHero>Warrior</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>11</Turns>
+          <StartTime>2019-04-17T21:32:13.1189751+02:00</StartTime>
+          <EndTime>2019-04-17T21:39:36.73846+02:00</EndTime>
+          <PlayerName>totti1019#2201</PlayerName>
+          <OpponentName>Szerszeń#21373</OpponentName>
+          <ReplayFile>totti1019#2201(Mage) vs Szerszeń#21373(Warrior) 2139-170419.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>6</Rank>
+          <Stars>1</Stars>
+          <OpponentRank>6</OpponentRank>
+          <HearthstoneBuild>30103</HearthstoneBuild>
+          <PlayerCardbackId>157</PlayerCardbackId>
+          <OpponentCardbackId>157</OpponentCardbackId>
+          <FriendlyPlayerId>2</FriendlyPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.209</Address>
+            <AuroraPassword>HOHABo</AuroraPassword>
+            <ClientHandle>45357485</ClientHandle>
+            <GameHandle>37224472</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>LCmgAl</SpectatorPassword>
+            <Version>1037744</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>66</RankedSeasonId>
+          <OpponentHeroCardId>HERO_01</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>ba0adba0-2068-490f-9784-1690a2c8ec45</DeckId>
+          <DeckName>Duca Mago</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsDeckId>1773830573</HsDeckId>
+          <PlayerCards>
+            <Card Id="EX1_043" Count="2" />
+            <Card Id="DAL_578" Count="2" Unconfirmed="1" />
+            <Card Id="TRL_523" Count="2" />
+            <Card Id="EX1_105" Count="2" />
+            <Card Id="TRL_569" Count="2" Unconfirmed="1" />
+            <Card Id="GIL_548" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_177" Count="2" />
+            <Card Id="BOT_256" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_163" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_575" Count="1" />
+            <Card Id="BOT_548" Count="1" />
+            <Card Id="DAL_088" Count="1" />
+            <Card Id="EX1_058" Count="2" Unconfirmed="1" />
+            <Card Id="TRL_526" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_066" Count="1" Unconfirmed="1" />
+            <Card Id="GIL_601" Count="2" Unconfirmed="2" />
+            <Card Id="EX1_558" Count="1" Unconfirmed="1" />
+            <Card Id="DAL_609" Count="1" Unconfirmed="1" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="EX1_410" Count="1" />
+            <Card Id="BOT_559" Count="1" />
+            <Card Id="GIL_803" Count="2" />
+            <Card Id="DAL_063" Count="1" />
+            <Card Id="EX1_407" Count="2" />
+            <Card Id="BOT_548" Count="1" />
+            <Card Id="BOT_238" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>b5317ad3-998c-4f98-807a-d94b3fff5d67</GameId>
+          <PlayerHero>Mage</PlayerHero>
+          <OpponentHero>Warrior</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>23</Turns>
+          <StartTime>2019-04-17T21:40:00.9645687+02:00</StartTime>
+          <EndTime>2019-04-17T21:57:45.8573095+02:00</EndTime>
+          <PlayerName>totti1019#2201</PlayerName>
+          <OpponentName>Xopstop#2556</OpponentName>
+          <ReplayFile>totti1019#2201(Mage) vs Xopstop#2556(Warrior) 2157-170419.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>6</Rank>
+          <Stars>2</Stars>
+          <OpponentRank>6</OpponentRank>
+          <HearthstoneBuild>30103</HearthstoneBuild>
+          <PlayerCardbackId>157</PlayerCardbackId>
+          <OpponentCardbackId>157</OpponentCardbackId>
+          <FriendlyPlayerId>2</FriendlyPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.88</Address>
+            <AuroraPassword>kiiAeC</AuroraPassword>
+            <ClientHandle>45357485</ClientHandle>
+            <GameHandle>1900567</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>eboAhJ</SpectatorPassword>
+            <Version>1037744</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>66</RankedSeasonId>
+          <OpponentHeroCardId>HERO_01</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>ba0adba0-2068-490f-9784-1690a2c8ec45</DeckId>
+          <DeckName>Duca Mago</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsDeckId>1773830573</HsDeckId>
+          <PlayerCards>
+            <Card Id="EX1_105" Count="2" />
+            <Card Id="TRL_523" Count="2" />
+            <Card Id="EX1_043" Count="2" />
+            <Card Id="GIL_548" Count="2" />
+            <Card Id="DAL_163" Count="2" />
+            <Card Id="DAL_177" Count="2" />
+            <Card Id="GIL_601" Count="2" />
+            <Card Id="EX1_058" Count="2" />
+            <Card Id="BOT_548" Count="1" />
+            <Card Id="DAL_609" Count="1" />
+            <Card Id="EX1_066" Count="1" />
+            <Card Id="TRL_569" Count="2" />
+            <Card Id="BOT_256" Count="2" />
+            <Card Id="DAL_578" Count="2" />
+            <Card Id="EX1_558" Count="1" />
+            <Card Id="TRL_526" Count="2" />
+            <Card Id="DAL_575" Count="1" />
+            <Card Id="DAL_088" Count="1" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="BOT_299" Count="2" />
+            <Card Id="EX1_410" Count="2" />
+            <Card Id="BOT_059" Count="2" />
+            <Card Id="EX1_049" Count="1" />
+            <Card Id="BOT_042" Count="2" />
+            <Card Id="GIL_654" Count="2" />
+            <Card Id="EX1_007" Count="2" />
+            <Card Id="EX1_606" Count="2" />
+            <Card Id="DAL_770" Count="2" />
+            <Card Id="DAL_058" Count="2" />
+            <Card Id="BOT_406" Count="1" />
+            <Card Id="BOT_104" Count="2" />
+            <Card Id="EX1_558" Count="1" />
+            <Card Id="EX1_407" Count="2" />
+            <Card Id="BOT_548" Count="1" />
+            <Card Id="EX1_002" Count="1" />
+            <Card Id="EX1_249" Count="1" />
+            <Card Id="BOT_238" Count="1" />
+            <Card Id="DAL_736" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>5dee4708-3be7-46a9-96f3-830841deaf36</GameId>
+          <PlayerHero>Mage</PlayerHero>
+          <OpponentHero>Hunter</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>10</Turns>
+          <StartTime>2019-04-18T22:32:43.2541652+02:00</StartTime>
+          <EndTime>2019-04-18T22:41:56.1319323+02:00</EndTime>
+          <PlayerName>totti1019#2201</PlayerName>
+          <OpponentName>KOBA#2274</OpponentName>
+          <ReplayFile>totti1019#2201(Mage) vs KOBA#2274(Hunter) 2241-180419.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>7</Rank>
+          <Stars>4</Stars>
+          <HearthstoneBuild>30103</HearthstoneBuild>
+          <PlayerCardbackId>157</PlayerCardbackId>
+          <OpponentCardbackId>157</OpponentCardbackId>
+          <FriendlyPlayerId>2</FriendlyPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.194</Address>
+            <AuroraPassword>Ambiao</AuroraPassword>
+            <ClientHandle>45357485</ClientHandle>
+            <GameHandle>24051861</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>LMnalM</SpectatorPassword>
+            <Version>1037744</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>66</RankedSeasonId>
+          <OpponentHeroCardId>HERO_05</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>e367a4d0-a438-4e50-9260-c3f2144c0940</DeckId>
+          <DeckName>Gera Mago</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsDeckId>1775658134</HsDeckId>
+          <PlayerCards>
+            <Card Id="BOT_548" Count="1" />
+            <Card Id="NEW1_021" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_177" Count="2" Unconfirmed="1" />
+            <Card Id="GIL_601" Count="2" />
+            <Card Id="DAL_578" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_066" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_058" Count="1" />
+            <Card Id="TRL_526" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_043" Count="2" Unconfirmed="1" />
+            <Card Id="BOT_256" Count="2" Unconfirmed="1" />
+            <Card Id="GIL_548" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_085" Count="2" />
+            <Card Id="TRL_523" Count="2" />
+            <Card Id="EX1_105" Count="2" Unconfirmed="1" />
+            <Card Id="TRL_569" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_575" Count="1" Unconfirmed="1" />
+            <Card Id="DAL_088" Count="1" Unconfirmed="1" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="BOT_445" Count="1" />
+            <Card Id="BOT_907" Count="1" />
+            <Card Id="BOT_033" Count="1" />
+            <Card Id="EX1_066" Count="1" />
+            <Card Id="EX1_162" Count="1" />
+            <Card Id="BOT_035" Count="1" />
+            <Card Id="DAL_604" Count="1" />
+            <Card Id="EX1_538" Count="1" />
+            <Card Id="BOT_532" Count="2" />
+            <Card Id="BOT_563" Count="1" />
+            <Card Id="BOT_548" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>c1ec0592-f6b8-493d-aaa8-b01827b5b3f1</GameId>
+          <PlayerHero>Mage</PlayerHero>
+          <OpponentHero>Warrior</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>10</Turns>
+          <StartTime>2019-04-18T22:42:17.8349962+02:00</StartTime>
+          <EndTime>2019-04-18T22:52:35.9587965+02:00</EndTime>
+          <PlayerName>totti1019#2201</PlayerName>
+          <OpponentName>Nighel#21214</OpponentName>
+          <ReplayFile>totti1019#2201(Mage) vs Nighel#21214(Warrior) 2252-180419.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>7</Rank>
+          <Stars>5</Stars>
+          <OpponentRank>6</OpponentRank>
+          <HearthstoneBuild>30103</HearthstoneBuild>
+          <PlayerCardbackId>157</PlayerCardbackId>
+          <OpponentCardbackId>157</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.98</Address>
+            <AuroraPassword>Ldfbpm</AuroraPassword>
+            <ClientHandle>45357485</ClientHandle>
+            <GameHandle>26869923</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>FINifG</SpectatorPassword>
+            <Version>1037744</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>66</RankedSeasonId>
+          <OpponentHeroCardId>HERO_01</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>e367a4d0-a438-4e50-9260-c3f2144c0940</DeckId>
+          <DeckName>Gera Mago</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsDeckId>1775658134</HsDeckId>
+          <PlayerCards>
+            <Card Id="DAL_578" Count="2" />
+            <Card Id="EX1_105" Count="2" Unconfirmed="1" />
+            <Card Id="NEW1_021" Count="2" />
+            <Card Id="GIL_548" Count="2" />
+            <Card Id="TRL_523" Count="2" Unconfirmed="1" />
+            <Card Id="TRL_569" Count="2" />
+            <Card Id="EX1_066" Count="2" />
+            <Card Id="DAL_177" Count="2" Unconfirmed="1" />
+            <Card Id="BOT_548" Count="1" />
+            <Card Id="EX1_058" Count="1" />
+            <Card Id="BOT_256" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_085" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_043" Count="2" />
+            <Card Id="TRL_526" Count="2" />
+            <Card Id="DAL_575" Count="1" Unconfirmed="1" />
+            <Card Id="GIL_601" Count="2" Unconfirmed="2" />
+            <Card Id="DAL_088" Count="1" Unconfirmed="1" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="EX1_410" Count="1" />
+            <Card Id="BOT_059" Count="1" />
+            <Card Id="GIL_580" Count="1" />
+            <Card Id="EX1_391" Count="1" />
+            <Card Id="BOT_559" Count="1" />
+            <Card Id="DAL_060" Count="1" />
+            <Card Id="EX1_606" Count="1" />
+            <Card Id="GIL_803" Count="1" />
+            <Card Id="DAL_063" Count="1" />
+            <Card Id="BOT_511" Count="1" />
+            <Card Id="BOT_104" Count="1" />
+            <Card Id="EX1_407" Count="1" />
+            <Card Id="BOT_548" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>b6ba3940-6caa-4788-a601-b39f167225e5</GameId>
+          <PlayerHero>Mage</PlayerHero>
+          <OpponentHero>Warrior</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>8</Turns>
+          <StartTime>2019-04-18T22:52:57.6491001+02:00</StartTime>
+          <EndTime>2019-04-18T22:57:05.3663237+02:00</EndTime>
+          <PlayerName>totti1019#2201</PlayerName>
+          <OpponentName>FreDee#21564</OpponentName>
+          <ReplayFile>totti1019#2201(Mage) vs FreDee#21564(Warrior) 2257-180419.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>6</Rank>
+          <Stars>1</Stars>
+          <OpponentRank>6</OpponentRank>
+          <HearthstoneBuild>30103</HearthstoneBuild>
+          <PlayerCardbackId>157</PlayerCardbackId>
+          <OpponentCardbackId>131</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.214</Address>
+            <AuroraPassword>AJLjAF</AuroraPassword>
+            <ClientHandle>45357485</ClientHandle>
+            <GameHandle>8454301</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>OgLaPa</SpectatorPassword>
+            <Version>1037744</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>66</RankedSeasonId>
+          <OpponentHeroCardId>HERO_01</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>e367a4d0-a438-4e50-9260-c3f2144c0940</DeckId>
+          <DeckName>Gera Mago</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsDeckId>1775658134</HsDeckId>
+          <PlayerCards>
+            <Card Id="NEW1_021" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_043" Count="2" Unconfirmed="1" />
+            <Card Id="GIL_548" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_066" Count="2" />
+            <Card Id="DAL_578" Count="2" />
+            <Card Id="EX1_105" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_177" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_058" Count="1" />
+            <Card Id="EX1_085" Count="2" Unconfirmed="1" />
+            <Card Id="BOT_256" Count="2" Unconfirmed="1" />
+            <Card Id="TRL_526" Count="2" Unconfirmed="1" />
+            <Card Id="TRL_523" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_575" Count="1" Unconfirmed="1" />
+            <Card Id="GIL_601" Count="2" Unconfirmed="2" />
+            <Card Id="BOT_548" Count="1" Unconfirmed="1" />
+            <Card Id="DAL_088" Count="1" Unconfirmed="1" />
+            <Card Id="TRL_569" Count="2" Unconfirmed="2" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="BOT_059" Count="1" />
+            <Card Id="EX1_096" Count="1" />
+            <Card Id="BOT_559" Count="1" />
+            <Card Id="GIL_113" Count="1" />
+            <Card Id="DAL_063" Count="1" />
+            <Card Id="BOT_104" Count="1" />
+            <Card Id="EX1_407" Count="1" />
+            <Card Id="DAL_064" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>89f71608-bfaa-4894-9e27-ce01652da290</GameId>
+          <PlayerHero>Mage</PlayerHero>
+          <OpponentHero>Warrior</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>18</Turns>
+          <StartTime>2019-04-18T22:57:26.7416702+02:00</StartTime>
+          <EndTime>2019-04-18T23:11:20.9802729+02:00</EndTime>
+          <PlayerName>totti1019#2201</PlayerName>
+          <OpponentName>Robes1789#2296</OpponentName>
+          <ReplayFile>totti1019#2201(Mage) vs Robes1789#2296(Warrior) 2311-180419.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>6</Rank>
+          <Stars>3</Stars>
+          <OpponentRank>6</OpponentRank>
+          <HearthstoneBuild>30103</HearthstoneBuild>
+          <PlayerCardbackId>157</PlayerCardbackId>
+          <OpponentCardbackId>157</OpponentCardbackId>
+          <FriendlyPlayerId>2</FriendlyPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.186</Address>
+            <AuroraPassword>CoOBFG</AuroraPassword>
+            <ClientHandle>45357485</ClientHandle>
+            <GameHandle>53346431</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>OHjPGd</SpectatorPassword>
+            <Version>1037744</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>66</RankedSeasonId>
+          <OpponentHeroCardId>HERO_01</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>e367a4d0-a438-4e50-9260-c3f2144c0940</DeckId>
+          <DeckName>Gera Mago</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsDeckId>1775658134</HsDeckId>
+          <PlayerCards>
+            <Card Id="DAL_575" Count="1" />
+            <Card Id="TRL_526" Count="2" />
+            <Card Id="TRL_523" Count="2" />
+            <Card Id="BOT_256" Count="2" />
+            <Card Id="EX1_085" Count="2" />
+            <Card Id="TRL_569" Count="2" />
+            <Card Id="EX1_043" Count="2" />
+            <Card Id="EX1_058" Count="1" />
+            <Card Id="EX1_105" Count="2" />
+            <Card Id="BOT_548" Count="1" />
+            <Card Id="GIL_601" Count="2" />
+            <Card Id="DAL_578" Count="2" />
+            <Card Id="GIL_548" Count="2" />
+            <Card Id="EX1_066" Count="2" />
+            <Card Id="DAL_088" Count="1" />
+            <Card Id="NEW1_021" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_177" Count="2" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="BOT_299" Count="2" />
+            <Card Id="EX1_410" Count="2" />
+            <Card Id="BOT_059" Count="2" />
+            <Card Id="GIL_580" Count="1" />
+            <Card Id="CS2_108" Count="2" />
+            <Card Id="BOT_042" Count="1" />
+            <Card Id="GIL_654" Count="2" />
+            <Card Id="EX1_606" Count="2" />
+            <Card Id="DAL_770" Count="2" />
+            <Card Id="BOT_104" Count="2" />
+            <Card Id="EX1_558" Count="1" />
+            <Card Id="EX1_407" Count="1" />
+            <Card Id="BOT_548" Count="1" />
+            <Card Id="BOT_238" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>a881c054-bc2a-4f23-b8c1-97ea97d471df</GameId>
+          <PlayerHero>Mage</PlayerHero>
+          <OpponentHero>Druid</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>12</Turns>
+          <StartTime>2019-04-18T23:11:41.8989118+02:00</StartTime>
+          <EndTime>2019-04-18T23:23:17.4299606+02:00</EndTime>
+          <PlayerName>totti1019#2201</PlayerName>
+          <OpponentName>Nostromo#22938</OpponentName>
+          <ReplayFile>totti1019#2201(Mage) vs Nostromo#22938(Druid) 2323-180419.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>6</Rank>
+          <Stars>2</Stars>
+          <OpponentRank>6</OpponentRank>
+          <HearthstoneBuild>30103</HearthstoneBuild>
+          <PlayerCardbackId>157</PlayerCardbackId>
+          <OpponentCardbackId>157</OpponentCardbackId>
+          <FriendlyPlayerId>2</FriendlyPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.70</Address>
+            <AuroraPassword>jgbbJH</AuroraPassword>
+            <ClientHandle>45357485</ClientHandle>
+            <GameHandle>26214535</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>MKCHKi</SpectatorPassword>
+            <Version>1037744</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>66</RankedSeasonId>
+          <OpponentHeroCardId>HERO_06</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>e367a4d0-a438-4e50-9260-c3f2144c0940</DeckId>
+          <DeckName>Gera Mago</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsDeckId>1775658134</HsDeckId>
+          <PlayerCards>
+            <Card Id="EX1_043" Count="2" />
+            <Card Id="GIL_601" Count="2" />
+            <Card Id="BOT_256" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_088" Count="1" />
+            <Card Id="NEW1_021" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_085" Count="2" Unconfirmed="1" />
+            <Card Id="TRL_526" Count="2" />
+            <Card Id="EX1_066" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_575" Count="1" />
+            <Card Id="DAL_578" Count="2" />
+            <Card Id="TRL_569" Count="2" Unconfirmed="1" />
+            <Card Id="GIL_548" Count="2" Unconfirmed="1" />
+            <Card Id="TRL_523" Count="2" />
+            <Card Id="DAL_177" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_105" Count="2" />
+            <Card Id="EX1_058" Count="1" />
+            <Card Id="BOT_548" Count="1" Unconfirmed="1" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="DAL_732" Count="1" />
+            <Card Id="EX1_154" Count="2" />
+            <Card Id="DAL_352" Count="1" />
+            <Card Id="DAL_400" Count="2" />
+            <Card Id="DAL_351" Count="1" />
+            <Card Id="BOT_420" Count="1" />
+            <Card Id="EX1_158" Count="1" />
+            <Card Id="GIL_553" Count="1" />
+            <Card Id="CS2_012" Count="1" />
+            <Card Id="DAL_256" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>00261849-abae-4c0c-b887-afd12670d73a</GameId>
+          <PlayerHero>Mage</PlayerHero>
+          <OpponentHero>Warrior</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>8</Turns>
+          <StartTime>2019-04-18T23:23:43.9100373+02:00</StartTime>
+          <EndTime>2019-04-18T23:28:35.7087428+02:00</EndTime>
+          <PlayerName>totti1019#2201</PlayerName>
+          <OpponentName>алекстази#2587</OpponentName>
+          <ReplayFile>totti1019#2201(Mage) vs алекстази#2587(Warrior) 2328-180419.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>6</Rank>
+          <Stars>3</Stars>
+          <OpponentRank>6</OpponentRank>
+          <HearthstoneBuild>30103</HearthstoneBuild>
+          <PlayerCardbackId>157</PlayerCardbackId>
+          <OpponentCardbackId>144</OpponentCardbackId>
+          <FriendlyPlayerId>2</FriendlyPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.204</Address>
+            <AuroraPassword>legnpf</AuroraPassword>
+            <ClientHandle>45357485</ClientHandle>
+            <GameHandle>29753467</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>Akabae</SpectatorPassword>
+            <Version>1037744</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>66</RankedSeasonId>
+          <OpponentHeroCardId>HERO_01</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>e367a4d0-a438-4e50-9260-c3f2144c0940</DeckId>
+          <DeckName>Gera Mago</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsDeckId>1775658134</HsDeckId>
+          <PlayerCards>
+            <Card Id="DAL_177" Count="2" Unconfirmed="1" />
+            <Card Id="TRL_569" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_578" Count="2" />
+            <Card Id="EX1_105" Count="2" />
+            <Card Id="NEW1_021" Count="2" />
+            <Card Id="BOT_256" Count="2" />
+            <Card Id="EX1_085" Count="2" Unconfirmed="1" />
+            <Card Id="GIL_548" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_058" Count="1" />
+            <Card Id="TRL_523" Count="2" Unconfirmed="1" />
+            <Card Id="TRL_526" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_066" Count="2" Unconfirmed="1" />
+            <Card Id="GIL_601" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_575" Count="1" />
+            <Card Id="EX1_043" Count="2" Unconfirmed="2" />
+            <Card Id="BOT_548" Count="1" Unconfirmed="1" />
+            <Card Id="DAL_088" Count="1" Unconfirmed="1" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="EX1_410" Count="1" />
+            <Card Id="BOT_059" Count="1" />
+            <Card Id="EX1_391" Count="2" />
+            <Card Id="CS2_108" Count="1" />
+            <Card Id="BOT_042" Count="1" />
+            <Card Id="GIL_654" Count="1" />
+            <Card Id="BOT_066" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>df91d741-285f-4348-838c-7435f7901f10</GameId>
+          <PlayerHero>Mage</PlayerHero>
+          <OpponentHero>Rogue</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>8</Turns>
+          <StartTime>2019-04-18T23:28:56.3233038+02:00</StartTime>
+          <EndTime>2019-04-18T23:33:21.9951797+02:00</EndTime>
+          <PlayerName>totti1019#2201</PlayerName>
+          <OpponentName>yann#2606</OpponentName>
+          <ReplayFile>totti1019#2201(Mage) vs yann#2606(Rogue) 2333-180419.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>6</Rank>
+          <Stars>4</Stars>
+          <OpponentRank>6</OpponentRank>
+          <HearthstoneBuild>30103</HearthstoneBuild>
+          <PlayerCardbackId>157</PlayerCardbackId>
+          <OpponentCardbackId>5</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.81</Address>
+            <AuroraPassword>AoICIj</AuroraPassword>
+            <ClientHandle>45357485</ClientHandle>
+            <GameHandle>20840453</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>MMJpKK</SpectatorPassword>
+            <Version>1037744</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>66</RankedSeasonId>
+          <OpponentHeroCardId>HERO_03</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>e367a4d0-a438-4e50-9260-c3f2144c0940</DeckId>
+          <DeckName>Gera Mago</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsDeckId>1775658134</HsDeckId>
+          <PlayerCards>
+            <Card Id="EX1_105" Count="2" />
+            <Card Id="GIL_548" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_085" Count="2" />
+            <Card Id="DAL_578" Count="2" Unconfirmed="1" />
+            <Card Id="NEW1_021" Count="2" Unconfirmed="1" />
+            <Card Id="TRL_569" Count="2" />
+            <Card Id="DAL_177" Count="2" Unconfirmed="1" />
+            <Card Id="TRL_526" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_043" Count="2" Unconfirmed="1" />
+            <Card Id="TRL_523" Count="2" Unconfirmed="1" />
+            <Card Id="GIL_601" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_066" Count="2" Unconfirmed="1" />
+            <Card Id="BOT_548" Count="1" />
+            <Card Id="EX1_058" Count="1" Unconfirmed="1" />
+            <Card Id="DAL_575" Count="1" Unconfirmed="1" />
+            <Card Id="DAL_088" Count="1" Unconfirmed="1" />
+            <Card Id="BOT_256" Count="2" Unconfirmed="2" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="EX1_145" Count="2" />
+            <Card Id="CS2_146" Count="1" />
+            <Card Id="CS2_074" Count="1" />
+            <Card Id="EX1_066" Count="1" />
+            <Card Id="GIL_534" Count="1" />
+            <Card Id="NEW1_022" Count="1" />
+            <Card Id="DAL_720" Count="1" />
+            <Card Id="NEW1_024" Count="1" />
+            <Card Id="BOT_242" Count="1" />
+            <Card Id="EX1_116" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>f19fd027-c95d-4fc2-a77b-c9a3a0ea1a5d</GameId>
+          <PlayerHero>Mage</PlayerHero>
+          <OpponentHero>Warlock</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>6</Turns>
+          <StartTime>2019-04-18T23:33:41.6275921+02:00</StartTime>
+          <EndTime>2019-04-18T23:37:07.2412439+02:00</EndTime>
+          <PlayerName>totti1019#2201</PlayerName>
+          <OpponentName>Adagio#21591</OpponentName>
+          <ReplayFile>totti1019#2201(Mage) vs Adagio#21591(Warlock) 2337-180419.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>6</Rank>
+          <Stars>3</Stars>
+          <OpponentRank>6</OpponentRank>
+          <HearthstoneBuild>30103</HearthstoneBuild>
+          <PlayerCardbackId>157</PlayerCardbackId>
+          <OpponentCardbackId>5</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.13</Address>
+            <AuroraPassword>dGmfNC</AuroraPassword>
+            <ClientHandle>45357485</ClientHandle>
+            <GameHandle>13107395</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>NkObnd</SpectatorPassword>
+            <Version>1037744</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>66</RankedSeasonId>
+          <OpponentHeroCardId>HERO_07</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>e367a4d0-a438-4e50-9260-c3f2144c0940</DeckId>
+          <DeckName>Gera Mago</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsDeckId>1775658134</HsDeckId>
+          <PlayerCards>
+            <Card Id="DAL_575" Count="1" />
+            <Card Id="EX1_105" Count="2" />
+            <Card Id="EX1_058" Count="1" />
+            <Card Id="TRL_526" Count="2" />
+            <Card Id="TRL_569" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_177" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_043" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_578" Count="2" Unconfirmed="1" />
+            <Card Id="GIL_548" Count="2" Unconfirmed="2" />
+            <Card Id="EX1_066" Count="2" Unconfirmed="2" />
+            <Card Id="TRL_523" Count="2" Unconfirmed="2" />
+            <Card Id="NEW1_021" Count="2" Unconfirmed="2" />
+            <Card Id="EX1_085" Count="2" Unconfirmed="2" />
+            <Card Id="GIL_601" Count="2" Unconfirmed="2" />
+            <Card Id="BOT_548" Count="1" Unconfirmed="1" />
+            <Card Id="DAL_088" Count="1" Unconfirmed="1" />
+            <Card Id="BOT_256" Count="2" Unconfirmed="2" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="EX1_302" Count="1" />
+            <Card Id="EX1_045" Count="1" />
+            <Card Id="EX1_066" Count="1" />
+            <Card Id="NEW1_021" Count="1" />
+            <Card Id="EX1_043" Count="1" />
+            <Card Id="CS2_062" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>6cf86cf3-5687-4378-9fb7-fc3a373d8d76</GameId>
+          <PlayerHero>Mage</PlayerHero>
+          <OpponentHero>Mage</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>10</Turns>
+          <StartTime>2019-04-18T23:37:33.3505415+02:00</StartTime>
+          <EndTime>2019-04-18T23:46:45.4485693+02:00</EndTime>
+          <PlayerName>totti1019#2201</PlayerName>
+          <OpponentName>Goblin69#2171</OpponentName>
+          <ReplayFile>totti1019#2201(Mage) vs Goblin69#2171(Mage) 2346-180419.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>6</Rank>
+          <Stars>4</Stars>
+          <OpponentRank>6</OpponentRank>
+          <HearthstoneBuild>30103</HearthstoneBuild>
+          <PlayerCardbackId>157</PlayerCardbackId>
+          <OpponentCardbackId>5</OpponentCardbackId>
+          <FriendlyPlayerId>2</FriendlyPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.220</Address>
+            <AuroraPassword>BCihED</AuroraPassword>
+            <ClientHandle>45357485</ClientHandle>
+            <GameHandle>41549978</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>oajoNh</SpectatorPassword>
+            <Version>1037744</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>66</RankedSeasonId>
+          <OpponentHeroCardId>HERO_08</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>e367a4d0-a438-4e50-9260-c3f2144c0940</DeckId>
+          <DeckName>Gera Mago</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsDeckId>1775658134</HsDeckId>
+          <PlayerCards>
+            <Card Id="TRL_526" Count="2" />
+            <Card Id="TRL_523" Count="2" />
+            <Card Id="EX1_105" Count="2" Unconfirmed="1" />
+            <Card Id="BOT_256" Count="2" />
+            <Card Id="TRL_569" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_043" Count="2" Unconfirmed="1" />
+            <Card Id="GIL_601" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_085" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_058" Count="1" />
+            <Card Id="BOT_548" Count="1" />
+            <Card Id="EX1_066" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_575" Count="1" Unconfirmed="1" />
+            <Card Id="GIL_548" Count="2" Unconfirmed="2" />
+            <Card Id="NEW1_021" Count="2" Unconfirmed="2" />
+            <Card Id="DAL_177" Count="2" Unconfirmed="2" />
+            <Card Id="DAL_088" Count="1" Unconfirmed="1" />
+            <Card Id="DAL_578" Count="2" Unconfirmed="2" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="EX1_058" Count="1" />
+            <Card Id="GIL_548" Count="2" />
+            <Card Id="EX1_066" Count="2" />
+            <Card Id="GIL_614" Count="1" />
+            <Card Id="DAL_090" Count="1" />
+            <Card Id="EX1_043" Count="1" />
+            <Card Id="GIL_601" Count="1" />
+            <Card Id="BOT_548" Count="1" />
+            <Card Id="EX1_105" Count="2" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>fb5fda2b-a71f-4d82-b0de-27e1a774b3de</GameId>
+          <PlayerHero>Mage</PlayerHero>
+          <OpponentHero>Rogue</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>9</Turns>
+          <StartTime>2019-04-18T23:47:09.1360748+02:00</StartTime>
+          <EndTime>2019-04-18T23:53:44.5534947+02:00</EndTime>
+          <PlayerName>totti1019#2201</PlayerName>
+          <OpponentName>DzeDun#21253</OpponentName>
+          <ReplayFile>totti1019#2201(Mage) vs DzeDun#21253(Rogue) 2353-180419.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>6</Rank>
+          <Stars>3</Stars>
+          <OpponentRank>6</OpponentRank>
+          <HearthstoneBuild>30103</HearthstoneBuild>
+          <PlayerCardbackId>157</PlayerCardbackId>
+          <OpponentCardbackId>164</OpponentCardbackId>
+          <FriendlyPlayerId>2</FriendlyPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.68</Address>
+            <AuroraPassword>lApIeC</AuroraPassword>
+            <ClientHandle>45357485</ClientHandle>
+            <GameHandle>28311706</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>MIemBf</SpectatorPassword>
+            <Version>1037744</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>66</RankedSeasonId>
+          <OpponentHeroCardId>HERO_03</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>e367a4d0-a438-4e50-9260-c3f2144c0940</DeckId>
+          <DeckName>Gera Mago</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsDeckId>1775658134</HsDeckId>
+          <PlayerCards>
+            <Card Id="TRL_526" Count="2" Unconfirmed="1" />
+            <Card Id="BOT_256" Count="2" />
+            <Card Id="EX1_105" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_177" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_066" Count="2" Unconfirmed="1" />
+            <Card Id="NEW1_021" Count="2" Unconfirmed="1" />
+            <Card Id="TRL_523" Count="2" />
+            <Card Id="DAL_578" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_088" Count="1" />
+            <Card Id="EX1_085" Count="2" Unconfirmed="1" />
+            <Card Id="GIL_601" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_058" Count="1" Unconfirmed="1" />
+            <Card Id="DAL_575" Count="1" Unconfirmed="1" />
+            <Card Id="GIL_548" Count="2" Unconfirmed="2" />
+            <Card Id="EX1_043" Count="2" Unconfirmed="2" />
+            <Card Id="BOT_548" Count="1" Unconfirmed="1" />
+            <Card Id="TRL_569" Count="2" Unconfirmed="2" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="EX1_145" Count="1" />
+            <Card Id="CS2_072" Count="1" />
+            <Card Id="DAL_714" Count="2" />
+            <Card Id="EX1_066" Count="1" />
+            <Card Id="EX1_124" Count="1" />
+            <Card Id="TRL_124" Count="1" />
+            <Card Id="GIL_827" Count="1" />
+            <Card Id="NEW1_022" Count="1" />
+            <Card Id="DAL_720" Count="1" />
+            <Card Id="DAL_416" Count="2" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>6108a482-02f1-492f-8fd4-3aa61d9971f8</GameId>
+          <PlayerHero>Mage</PlayerHero>
+          <OpponentHero>Warrior</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>20</Turns>
+          <StartTime>2019-04-18T23:54:08.105525+02:00</StartTime>
+          <EndTime>2019-04-19T00:10:55.3442998+02:00</EndTime>
+          <PlayerName>totti1019#2201</PlayerName>
+          <OpponentName>Skizzik#2265</OpponentName>
+          <ReplayFile>totti1019#2201(Mage) vs Skizzik#2265(Warrior) 0010-190419.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>6</Rank>
+          <Stars>4</Stars>
+          <OpponentRank>5</OpponentRank>
+          <HearthstoneBuild>30103</HearthstoneBuild>
+          <PlayerCardbackId>157</PlayerCardbackId>
+          <OpponentCardbackId>157</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.192</Address>
+            <AuroraPassword>oDieGh</AuroraPassword>
+            <ClientHandle>45357485</ClientHandle>
+            <GameHandle>39321710</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>okHMEk</SpectatorPassword>
+            <Version>1037744</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>66</RankedSeasonId>
+          <OpponentHeroCardId>HERO_01</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>e367a4d0-a438-4e50-9260-c3f2144c0940</DeckId>
+          <DeckName>Gera Mago</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsDeckId>1775658134</HsDeckId>
+          <PlayerCards>
+            <Card Id="GIL_601" Count="2" />
+            <Card Id="EX1_043" Count="2" />
+            <Card Id="DAL_578" Count="2" />
+            <Card Id="BOT_548" Count="1" />
+            <Card Id="DAL_575" Count="1" />
+            <Card Id="EX1_066" Count="2" />
+            <Card Id="GIL_548" Count="2" />
+            <Card Id="TRL_569" Count="2" />
+            <Card Id="EX1_105" Count="2" />
+            <Card Id="TRL_523" Count="2" />
+            <Card Id="NEW1_021" Count="2" />
+            <Card Id="DAL_088" Count="1" />
+            <Card Id="EX1_058" Count="1" />
+            <Card Id="BOT_256" Count="2" />
+            <Card Id="DAL_177" Count="2" />
+            <Card Id="TRL_526" Count="2" />
+            <Card Id="EX1_085" Count="2" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="BOT_299" Count="2" />
+            <Card Id="EX1_410" Count="2" />
+            <Card Id="BOT_059" Count="1" />
+            <Card Id="TRL_321" Count="1" />
+            <Card Id="BOT_042" Count="2" />
+            <Card Id="EX1_007" Count="2" />
+            <Card Id="EX1_606" Count="2" />
+            <Card Id="DAL_770" Count="1" />
+            <Card Id="DAL_058" Count="2" />
+            <Card Id="BOT_406" Count="1" />
+            <Card Id="BOT_104" Count="1" />
+            <Card Id="EX1_558" Count="1" />
+            <Card Id="EX1_407" Count="1" />
+            <Card Id="DAL_538" Count="1" />
+            <Card Id="BOT_238" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>e8f6d9eb-e922-4da6-8bae-6b2cc5bc1aec</GameId>
+          <PlayerHero>Mage</PlayerHero>
+          <OpponentHero>Mage</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>9</Turns>
+          <StartTime>2019-04-19T00:11:25.3624783+02:00</StartTime>
+          <EndTime>2019-04-19T00:16:07.7604322+02:00</EndTime>
+          <PlayerName>totti1019#2201</PlayerName>
+          <OpponentName>Flenzy#2157</OpponentName>
+          <ReplayFile>totti1019#2201(Mage) vs Flenzy#2157(Mage) 0016-190419.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>6</Rank>
+          <Stars>3</Stars>
+          <OpponentRank>6</OpponentRank>
+          <HearthstoneBuild>30103</HearthstoneBuild>
+          <PlayerCardbackId>157</PlayerCardbackId>
+          <OpponentCardbackId>143</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.187</Address>
+            <AuroraPassword>ldFACC</AuroraPassword>
+            <ClientHandle>45357485</ClientHandle>
+            <GameHandle>7078068</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>AMmgBC</SpectatorPassword>
+            <Version>1037744</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>66</RankedSeasonId>
+          <OpponentHeroCardId>HERO_08</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>e367a4d0-a438-4e50-9260-c3f2144c0940</DeckId>
+          <DeckName>Gera Mago</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsDeckId>1775658134</HsDeckId>
+          <PlayerCards>
+            <Card Id="DAL_177" Count="2" Unconfirmed="1" />
+            <Card Id="NEW1_021" Count="2" Unconfirmed="1" />
+            <Card Id="TRL_526" Count="2" />
+            <Card Id="DAL_088" Count="1" />
+            <Card Id="TRL_569" Count="2" Unconfirmed="1" />
+            <Card Id="BOT_256" Count="2" />
+            <Card Id="GIL_548" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_043" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_578" Count="2" Unconfirmed="1" />
+            <Card Id="GIL_601" Count="2" />
+            <Card Id="EX1_066" Count="2" />
+            <Card Id="EX1_085" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_058" Count="1" />
+            <Card Id="DAL_575" Count="1" Unconfirmed="1" />
+            <Card Id="TRL_523" Count="2" Unconfirmed="2" />
+            <Card Id="BOT_548" Count="1" Unconfirmed="1" />
+            <Card Id="EX1_105" Count="2" Unconfirmed="2" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="EX1_058" Count="1" />
+            <Card Id="GIL_548" Count="1" />
+            <Card Id="TRL_523" Count="2" />
+            <Card Id="DAL_177" Count="1" />
+            <Card Id="GIL_601" Count="1" />
+            <Card Id="DAL_088" Count="1" />
+            <Card Id="TRL_569" Count="1" />
+            <Card Id="DAL_578" Count="1" />
+            <Card Id="EX1_105" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>63d23a54-7e61-4607-9e4b-0d380667a527</GameId>
+          <PlayerHero>Mage</PlayerHero>
+          <OpponentHero>Warrior</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>13</Turns>
+          <StartTime>2019-04-19T00:16:33.7092212+02:00</StartTime>
+          <EndTime>2019-04-19T00:27:53.2547463+02:00</EndTime>
+          <PlayerName>totti1019#2201</PlayerName>
+          <OpponentName>RedSabbath#2676</OpponentName>
+          <ReplayFile>totti1019#2201(Mage) vs RedSabbath#2676(Warrior) 0027-190419.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>6</Rank>
+          <Stars>2</Stars>
+          <OpponentRank>6</OpponentRank>
+          <HearthstoneBuild>30103</HearthstoneBuild>
+          <PlayerCardbackId>157</PlayerCardbackId>
+          <OpponentCardbackId>22</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.60</Address>
+            <AuroraPassword>hPjemj</AuroraPassword>
+            <ClientHandle>45357485</ClientHandle>
+            <GameHandle>1900719</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>eJLfiE</SpectatorPassword>
+            <Version>1037744</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>66</RankedSeasonId>
+          <OpponentHeroCardId>HERO_01</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>e367a4d0-a438-4e50-9260-c3f2144c0940</DeckId>
+          <DeckName>Gera Mago</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsDeckId>1775658134</HsDeckId>
+          <PlayerCards>
+            <Card Id="TRL_569" Count="2" />
+            <Card Id="EX1_066" Count="2" />
+            <Card Id="EX1_043" Count="2" />
+            <Card Id="TRL_523" Count="2" />
+            <Card Id="BOT_256" Count="2" />
+            <Card Id="BOT_548" Count="1" />
+            <Card Id="DAL_177" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_578" Count="2" />
+            <Card Id="GIL_601" Count="2" />
+            <Card Id="GIL_548" Count="2" />
+            <Card Id="EX1_085" Count="2" />
+            <Card Id="EX1_105" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_058" Count="1" />
+            <Card Id="NEW1_021" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_575" Count="1" Unconfirmed="1" />
+            <Card Id="TRL_526" Count="2" Unconfirmed="2" />
+            <Card Id="DAL_088" Count="1" Unconfirmed="1" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="BOT_299" Count="1" />
+            <Card Id="BOT_059" Count="2" />
+            <Card Id="GIL_580" Count="1" />
+            <Card Id="EX1_096" Count="2" />
+            <Card Id="GIL_654" Count="2" />
+            <Card Id="DAL_060" Count="2" />
+            <Card Id="GIL_113" Count="1" />
+            <Card Id="DAL_770" Count="1" />
+            <Card Id="DAL_063" Count="1" />
+            <Card Id="BOT_104" Count="1" />
+            <Card Id="DAL_064" Count="1" />
+            <Card Id="BOT_238" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>14c6c060-49e0-40d5-849e-c543d820e94c</GameId>
+          <PlayerHero>Mage</PlayerHero>
+          <OpponentHero>Mage</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>19</Turns>
+          <StartTime>2019-04-15T20:17:45.2493919+02:00</StartTime>
+          <EndTime>2019-04-15T20:34:58.119987+02:00</EndTime>
+          <PlayerName>totti1019#2201</PlayerName>
+          <OpponentName>Shudderwock#2457</OpponentName>
+          <ReplayFile>totti1019#2201(Mage) vs Shudderwock#2457(Mage) 2034-150419.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>8</Rank>
+          <Stars>3</Stars>
+          <OpponentRank>8</OpponentRank>
+          <HearthstoneBuild>30103</HearthstoneBuild>
+          <PlayerCardbackId>157</PlayerCardbackId>
+          <OpponentCardbackId>162</OpponentCardbackId>
+          <FriendlyPlayerId>2</FriendlyPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.186</Address>
+            <AuroraPassword>HKGbAp</AuroraPassword>
+            <ClientHandle>45357485</ClientHandle>
+            <GameHandle>61538515</GameHandle>
+            <Mission>2</Mission>
+            <Port>3724</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>oMFdNi</SpectatorPassword>
+            <Version>1037104</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>66</RankedSeasonId>
+          <OpponentHeroCardId>HERO_08b</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>287cfcdd-4188-4618-88fa-459fe0401c5e</DeckId>
+          <DeckName>Gera Mago</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsDeckId>1772660410</HsDeckId>
+          <PlayerCards>
+            <Card Id="EX1_085" Count="2" />
+            <Card Id="DAL_575" Count="1" />
+            <Card Id="GIL_601" Count="2" />
+            <Card Id="EX1_058" Count="1" />
+            <Card Id="EX1_043" Count="2" />
+            <Card Id="DAL_177" Count="2" />
+            <Card Id="BOT_256" Count="2" />
+            <Card Id="NEW1_021" Count="2" />
+            <Card Id="TRL_569" Count="2" />
+            <Card Id="GIL_548" Count="2" />
+            <Card Id="EX1_105" Count="2" />
+            <Card Id="TRL_526" Count="2" />
+            <Card Id="BOT_548" Count="1" />
+            <Card Id="EX1_066" Count="1" />
+            <Card Id="GIL_667" Count="1" />
+            <Card Id="TRL_523" Count="2" />
+            <Card Id="DAL_578" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_088" Count="1" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="CS2_024" Count="2" />
+            <Card Id="EX1_015" Count="2" />
+            <Card Id="DAL_575" Count="1" />
+            <Card Id="EX1_066" Count="2" />
+            <Card Id="EX1_096" Count="1" />
+            <Card Id="EX1_012" Count="1" />
+            <Card Id="NEW1_021" Count="1" />
+            <Card Id="DAL_177" Count="2" />
+            <Card Id="CS2_026" Count="2" />
+            <Card Id="CS2_023" Count="2" />
+            <Card Id="CS2_029" Count="1" />
+            <Card Id="EX1_558" Count="1" />
+            <Card Id="BOT_548" Count="1" />
+            <Card Id="CS2_028" Count="2" />
+            <Card Id="BOT_256" Count="2" />
+            <Card Id="CS2_032" Count="1" />
+            <Card Id="DAL_609" Count="1" />
+            <Card Id="EX1_105" Count="2" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>df9919e7-19c8-498e-828f-93f160335f42</GameId>
+          <PlayerHero>Mage</PlayerHero>
+          <OpponentHero>Hunter</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>9</Turns>
+          <StartTime>2019-04-15T20:35:17.8172065+02:00</StartTime>
+          <EndTime>2019-04-15T20:41:05.4563256+02:00</EndTime>
+          <PlayerName>totti1019#2201</PlayerName>
+          <OpponentName>Townsendo#2418</OpponentName>
+          <ReplayFile>totti1019#2201(Mage) vs Townsendo#2418(Hunter) 2041-150419.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>8</Rank>
+          <Stars>5</Stars>
+          <OpponentRank>8</OpponentRank>
+          <HearthstoneBuild>30103</HearthstoneBuild>
+          <PlayerCardbackId>157</PlayerCardbackId>
+          <OpponentCardbackId>157</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.99</Address>
+            <AuroraPassword>OAGJKd</AuroraPassword>
+            <ClientHandle>45357485</ClientHandle>
+            <GameHandle>44892383</GameHandle>
+            <Mission>2</Mission>
+            <Port>3724</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>jOdDNi</SpectatorPassword>
+            <Version>1037104</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>66</RankedSeasonId>
+          <OpponentHeroCardId>HERO_05</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>287cfcdd-4188-4618-88fa-459fe0401c5e</DeckId>
+          <DeckName>Gera Mago</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsDeckId>1772660410</HsDeckId>
+          <PlayerCards>
+            <Card Id="EX1_105" Count="2" />
+            <Card Id="GIL_601" Count="2" Unconfirmed="1" />
+            <Card Id="TRL_569" Count="2" />
+            <Card Id="GIL_548" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_575" Count="1" />
+            <Card Id="EX1_085" Count="2" Unconfirmed="1" />
+            <Card Id="BOT_256" Count="2" />
+            <Card Id="DAL_578" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_066" Count="1" />
+            <Card Id="TRL_526" Count="2" />
+            <Card Id="DAL_088" Count="1" />
+            <Card Id="EX1_058" Count="1" Unconfirmed="1" />
+            <Card Id="TRL_523" Count="2" Unconfirmed="2" />
+            <Card Id="NEW1_021" Count="2" Unconfirmed="2" />
+            <Card Id="DAL_177" Count="2" Unconfirmed="2" />
+            <Card Id="EX1_043" Count="2" Unconfirmed="2" />
+            <Card Id="GIL_667" Count="1" Unconfirmed="1" />
+            <Card Id="BOT_548" Count="1" Unconfirmed="1" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="BOT_445" Count="2" />
+            <Card Id="BOT_079" Count="2" />
+            <Card Id="DS1_184" Count="1" />
+            <Card Id="BOT_907" Count="1" />
+            <Card Id="BOT_038" Count="1" />
+            <Card Id="BOT_438" Count="1" />
+            <Card Id="BOT_035" Count="2" />
+            <Card Id="BOT_251" Count="1" />
+            <Card Id="DAL_604" Count="1" />
+            <Card Id="BOT_021" Count="1" />
+            <Card Id="BOT_548" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>05933f37-11bf-48c5-ba22-5a8f8dce55fa</GameId>
+          <PlayerHero>Mage</PlayerHero>
+          <OpponentHero>Warrior</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>8</Turns>
+          <StartTime>2019-04-15T20:41:25.0665644+02:00</StartTime>
+          <EndTime>2019-04-15T20:45:48.4746221+02:00</EndTime>
+          <PlayerName>totti1019#2201</PlayerName>
+          <OpponentName>Kadgarge#2550</OpponentName>
+          <ReplayFile>totti1019#2201(Mage) vs Kadgarge#2550(Warrior) 2045-150419.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>8</Rank>
+          <Stars>4</Stars>
+          <OpponentRank>8</OpponentRank>
+          <HearthstoneBuild>30103</HearthstoneBuild>
+          <PlayerCardbackId>157</PlayerCardbackId>
+          <OpponentCardbackId>159</OpponentCardbackId>
+          <FriendlyPlayerId>2</FriendlyPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.88</Address>
+            <AuroraPassword>PkPpGB</AuroraPassword>
+            <ClientHandle>45357485</ClientHandle>
+            <GameHandle>51511580</GameHandle>
+            <Mission>2</Mission>
+            <Port>3724</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>OIBIjj</SpectatorPassword>
+            <Version>1037104</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>66</RankedSeasonId>
+          <OpponentHeroCardId>HERO_01</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>287cfcdd-4188-4618-88fa-459fe0401c5e</DeckId>
+          <DeckName>Gera Mago</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsDeckId>1772660410</HsDeckId>
+          <PlayerCards>
+            <Card Id="NEW1_021" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_578" Count="2" />
+            <Card Id="BOT_548" Count="1" />
+            <Card Id="EX1_085" Count="2" Unconfirmed="1" />
+            <Card Id="TRL_523" Count="2" Unconfirmed="1" />
+            <Card Id="GIL_601" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_105" Count="2" Unconfirmed="1" />
+            <Card Id="BOT_256" Count="2" Unconfirmed="1" />
+            <Card Id="TRL_569" Count="2" Unconfirmed="1" />
+            <Card Id="GIL_667" Count="1" />
+            <Card Id="EX1_058" Count="1" Unconfirmed="1" />
+            <Card Id="DAL_575" Count="1" Unconfirmed="1" />
+            <Card Id="GIL_548" Count="2" Unconfirmed="2" />
+            <Card Id="EX1_066" Count="1" Unconfirmed="1" />
+            <Card Id="DAL_177" Count="2" Unconfirmed="2" />
+            <Card Id="EX1_043" Count="2" Unconfirmed="2" />
+            <Card Id="TRL_526" Count="2" Unconfirmed="2" />
+            <Card Id="DAL_088" Count="1" Unconfirmed="1" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="EX1_410" Count="1" />
+            <Card Id="EX1_007" Count="2" />
+            <Card Id="EX1_606" Count="1" />
+            <Card Id="BOT_406" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>7b0a10af-9b71-4fa2-8010-2f7f427f0993</GameId>
+          <PlayerHero>Mage</PlayerHero>
+          <OpponentHero>Druid</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>10</Turns>
+          <StartTime>2019-04-15T20:46:14.4117678+02:00</StartTime>
+          <EndTime>2019-04-15T20:52:15.2519514+02:00</EndTime>
+          <PlayerName>totti1019#2201</PlayerName>
+          <OpponentName>Deakin#2139</OpponentName>
+          <ReplayFile>totti1019#2201(Mage) vs Deakin#2139(Druid) 2052-150419.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>8</Rank>
+          <Stars>5</Stars>
+          <OpponentRank>8</OpponentRank>
+          <HearthstoneBuild>30103</HearthstoneBuild>
+          <PlayerCardbackId>157</PlayerCardbackId>
+          <OpponentCardbackId>157</OpponentCardbackId>
+          <FriendlyPlayerId>2</FriendlyPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.67</Address>
+            <AuroraPassword>FoifOn</AuroraPassword>
+            <ClientHandle>45357485</ClientHandle>
+            <GameHandle>26804559</GameHandle>
+            <Mission>2</Mission>
+            <Port>3724</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>kPiaEo</SpectatorPassword>
+            <Version>1037104</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>66</RankedSeasonId>
+          <OpponentHeroCardId>HERO_06</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>287cfcdd-4188-4618-88fa-459fe0401c5e</DeckId>
+          <DeckName>Gera Mago</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsDeckId>1772660410</HsDeckId>
+          <PlayerCards>
+            <Card Id="DAL_578" Count="2" />
+            <Card Id="DAL_177" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_575" Count="1" />
+            <Card Id="TRL_526" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_105" Count="2" Unconfirmed="1" />
+            <Card Id="GIL_667" Count="1" />
+            <Card Id="GIL_601" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_066" Count="1" />
+            <Card Id="EX1_085" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_043" Count="2" />
+            <Card Id="BOT_256" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_058" Count="1" Unconfirmed="1" />
+            <Card Id="GIL_548" Count="2" Unconfirmed="2" />
+            <Card Id="TRL_523" Count="2" Unconfirmed="2" />
+            <Card Id="NEW1_021" Count="2" Unconfirmed="2" />
+            <Card Id="BOT_548" Count="1" Unconfirmed="1" />
+            <Card Id="DAL_088" Count="1" Unconfirmed="1" />
+            <Card Id="TRL_569" Count="2" Unconfirmed="2" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="DAL_733" Count="1" />
+            <Card Id="DAL_400" Count="1" />
+            <Card Id="DAL_351" Count="1" />
+            <Card Id="BOT_420" Count="1" />
+            <Card Id="GIL_553" Count="2" />
+            <Card Id="DAL_256" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>a22d7db9-7087-4c49-aa4e-4bdc4252aedd</GameId>
+          <PlayerHero>Mage</PlayerHero>
+          <OpponentHero>Shaman</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>12</Turns>
+          <StartTime>2019-04-15T20:52:48.8546837+02:00</StartTime>
+          <EndTime>2019-04-15T21:03:15.8645764+02:00</EndTime>
+          <PlayerName>totti1019#2201</PlayerName>
+          <OpponentName>Asuna#2517</OpponentName>
+          <ReplayFile>totti1019#2201(Mage) vs Asuna#2517(Shaman) 2103-150419.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>7</Rank>
+          <Stars>1</Stars>
+          <OpponentRank>7</OpponentRank>
+          <HearthstoneBuild>30103</HearthstoneBuild>
+          <PlayerCardbackId>157</PlayerCardbackId>
+          <OpponentCardbackId>157</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.100</Address>
+            <AuroraPassword>IeDkgo</AuroraPassword>
+            <ClientHandle>45357485</ClientHandle>
+            <GameHandle>50725216</GameHandle>
+            <Mission>2</Mission>
+            <Port>3724</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>eOAeiD</SpectatorPassword>
+            <Version>1037104</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>66</RankedSeasonId>
+          <OpponentHeroCardId>HERO_02b</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>287cfcdd-4188-4618-88fa-459fe0401c5e</DeckId>
+          <DeckName>Gera Mago</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsDeckId>1772660410</HsDeckId>
+          <PlayerCards>
+            <Card Id="DAL_088" Count="1" />
+            <Card Id="GIL_667" Count="1" />
+            <Card Id="EX1_105" Count="2" Unconfirmed="1" />
+            <Card Id="TRL_523" Count="2" />
+            <Card Id="TRL_569" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_575" Count="1" />
+            <Card Id="NEW1_021" Count="2" />
+            <Card Id="DAL_578" Count="2" />
+            <Card Id="GIL_548" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_177" Count="2" />
+            <Card Id="GIL_601" Count="2" />
+            <Card Id="EX1_066" Count="1" />
+            <Card Id="EX1_043" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_085" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_058" Count="1" Unconfirmed="1" />
+            <Card Id="TRL_526" Count="2" Unconfirmed="2" />
+            <Card Id="BOT_548" Count="1" Unconfirmed="1" />
+            <Card Id="BOT_256" Count="2" Unconfirmed="2" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="EX1_509" Count="1" />
+            <Card Id="BOT_451" Count="1" />
+            <Card Id="DAL_433" Count="2" />
+            <Card Id="TRL_352" Count="2" />
+            <Card Id="DAL_049" Count="2" />
+            <Card Id="EX1_507" Count="1" />
+            <Card Id="BOT_407" Count="2" />
+            <Card Id="DAL_726" Count="1" />
+            <Card Id="DAL_539" Count="1" />
+            <Card Id="TRL_351" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>43054f3e-1a1e-4cf6-97b5-32832216f9a7</GameId>
+          <PlayerHero>Mage</PlayerHero>
+          <OpponentHero>Warrior</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>19</Turns>
+          <StartTime>2019-04-15T21:03:37.1501601+02:00</StartTime>
+          <EndTime>2019-04-15T21:17:40.3732838+02:00</EndTime>
+          <PlayerName>totti1019#2201</PlayerName>
+          <OpponentName>PTT69BIO#2436</OpponentName>
+          <ReplayFile>totti1019#2201(Mage) vs PTT69BIO#2436(Warrior) 2117-150419.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>7</Rank>
+          <Stars>3</Stars>
+          <OpponentRank>7</OpponentRank>
+          <HearthstoneBuild>30103</HearthstoneBuild>
+          <PlayerCardbackId>157</PlayerCardbackId>
+          <OpponentCardbackId>13</OpponentCardbackId>
+          <FriendlyPlayerId>2</FriendlyPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.60</Address>
+            <AuroraPassword>FBOlmE</AuroraPassword>
+            <ClientHandle>45357485</ClientHandle>
+            <GameHandle>15729057</GameHandle>
+            <Mission>2</Mission>
+            <Port>3724</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>mPhjmc</SpectatorPassword>
+            <Version>1037104</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>66</RankedSeasonId>
+          <OpponentHeroCardId>HERO_01</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>287cfcdd-4188-4618-88fa-459fe0401c5e</DeckId>
+          <DeckName>Gera Mago</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsDeckId>1772660410</HsDeckId>
+          <PlayerCards>
+            <Card Id="DAL_177" Count="2" />
+            <Card Id="EX1_043" Count="2" Unconfirmed="1" />
+            <Card Id="GIL_601" Count="2" />
+            <Card Id="TRL_526" Count="2" />
+            <Card Id="NEW1_021" Count="2" />
+            <Card Id="EX1_066" Count="1" />
+            <Card Id="TRL_523" Count="2" />
+            <Card Id="EX1_085" Count="2" />
+            <Card Id="DAL_088" Count="1" />
+            <Card Id="DAL_575" Count="1" />
+            <Card Id="BOT_256" Count="2" Unconfirmed="1" />
+            <Card Id="BOT_548" Count="1" />
+            <Card Id="EX1_105" Count="2" />
+            <Card Id="TRL_569" Count="2" />
+            <Card Id="GIL_548" Count="2" />
+            <Card Id="EX1_058" Count="1" />
+            <Card Id="DAL_578" Count="2" Unconfirmed="1" />
+            <Card Id="GIL_667" Count="1" Unconfirmed="1" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="BOT_299" Count="2" />
+            <Card Id="EX1_410" Count="1" />
+            <Card Id="GIL_580" Count="1" />
+            <Card Id="BOT_042" Count="1" />
+            <Card Id="GIL_654" Count="2" />
+            <Card Id="BOT_559" Count="1" />
+            <Card Id="DAL_060" Count="2" />
+            <Card Id="EX1_606" Count="2" />
+            <Card Id="GIL_803" Count="2" />
+            <Card Id="DAL_063" Count="2" />
+            <Card Id="EX1_048" Count="2" />
+            <Card Id="BOT_511" Count="1" />
+            <Card Id="BOT_104" Count="2" />
+            <Card Id="EX1_407" Count="1" />
+            <Card Id="DAL_064" Count="1" />
+            <Card Id="BOT_238" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>29aaaed1-eea8-4cac-8f37-904489c156ca</GameId>
+          <PlayerHero>Mage</PlayerHero>
+          <OpponentHero>Rogue</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>9</Turns>
+          <StartTime>2019-04-15T21:18:02.4799876+02:00</StartTime>
+          <EndTime>2019-04-15T21:25:35.9457732+02:00</EndTime>
+          <PlayerName>totti1019#2201</PlayerName>
+          <OpponentName>Anatheo#2819</OpponentName>
+          <ReplayFile>totti1019#2201(Mage) vs Anatheo#2819(Rogue) 2125-150419.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>7</Rank>
+          <Stars>2</Stars>
+          <OpponentRank>7</OpponentRank>
+          <HearthstoneBuild>30103</HearthstoneBuild>
+          <PlayerCardbackId>157</PlayerCardbackId>
+          <OpponentCardbackId>159</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.193</Address>
+            <AuroraPassword>ikfHnj</AuroraPassword>
+            <ClientHandle>45357485</ClientHandle>
+            <GameHandle>19267962</GameHandle>
+            <Mission>2</Mission>
+            <Port>3724</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>aODmOo</SpectatorPassword>
+            <Version>1037104</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>66</RankedSeasonId>
+          <OpponentHeroCardId>HERO_03</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>287cfcdd-4188-4618-88fa-459fe0401c5e</DeckId>
+          <DeckName>Gera Mago</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsDeckId>1772660410</HsDeckId>
+          <PlayerCards>
+            <Card Id="EX1_085" Count="2" />
+            <Card Id="EX1_105" Count="2" Unconfirmed="1" />
+            <Card Id="GIL_548" Count="2" />
+            <Card Id="TRL_523" Count="2" />
+            <Card Id="NEW1_021" Count="2" />
+            <Card Id="GIL_667" Count="1" />
+            <Card Id="GIL_601" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_575" Count="1" />
+            <Card Id="BOT_256" Count="2" Unconfirmed="1" />
+            <Card Id="TRL_569" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_058" Count="1" />
+            <Card Id="EX1_066" Count="1" Unconfirmed="1" />
+            <Card Id="DAL_177" Count="2" Unconfirmed="2" />
+            <Card Id="EX1_043" Count="2" Unconfirmed="2" />
+            <Card Id="TRL_526" Count="2" Unconfirmed="2" />
+            <Card Id="BOT_548" Count="1" Unconfirmed="1" />
+            <Card Id="DAL_088" Count="1" Unconfirmed="1" />
+            <Card Id="DAL_578" Count="2" Unconfirmed="2" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="CS2_072" Count="1" />
+            <Card Id="EX1_124" Count="2" />
+            <Card Id="EX1_134" Count="1" />
+            <Card Id="EX1_613" Count="1" />
+            <Card Id="TRL_124" Count="2" />
+            <Card Id="GIL_827" Count="1" />
+            <Card Id="NEW1_022" Count="2" />
+            <Card Id="DAL_716" Count="1" />
+            <Card Id="DAL_720" Count="1" />
+            <Card Id="DAL_416" Count="2" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>cfc340d0-744b-424c-a998-9b491d3d72fc</GameId>
+          <PlayerHero>Mage</PlayerHero>
+          <OpponentHero>Warrior</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>6</Turns>
+          <StartTime>2019-04-15T21:25:56.6628488+02:00</StartTime>
+          <EndTime>2019-04-15T21:29:07.0395172+02:00</EndTime>
+          <PlayerName>totti1019#2201</PlayerName>
+          <OpponentName>FrazekCZ#2872</OpponentName>
+          <ReplayFile>totti1019#2201(Mage) vs FrazekCZ#2872(Warrior) 2129-150419.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>7</Rank>
+          <Stars>1</Stars>
+          <OpponentRank>7</OpponentRank>
+          <HearthstoneBuild>30103</HearthstoneBuild>
+          <PlayerCardbackId>157</PlayerCardbackId>
+          <OpponentCardbackId>162</OpponentCardbackId>
+          <FriendlyPlayerId>2</FriendlyPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.189</Address>
+            <AuroraPassword>PnHCFb</AuroraPassword>
+            <ClientHandle>45357485</ClientHandle>
+            <GameHandle>13435126</GameHandle>
+            <Mission>2</Mission>
+            <Port>3724</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>LhhIPg</SpectatorPassword>
+            <Version>1037104</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>66</RankedSeasonId>
+          <OpponentHeroCardId>HERO_01</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>287cfcdd-4188-4618-88fa-459fe0401c5e</DeckId>
+          <DeckName>Gera Mago</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsDeckId>1772660410</HsDeckId>
+          <PlayerCards>
+            <Card Id="EX1_058" Count="1" />
+            <Card Id="GIL_667" Count="1" />
+            <Card Id="EX1_105" Count="2" />
+            <Card Id="DAL_088" Count="1" />
+            <Card Id="GIL_548" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_066" Count="1" />
+            <Card Id="TRL_569" Count="2" Unconfirmed="1" />
+            <Card Id="BOT_256" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_043" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_177" Count="2" Unconfirmed="1" />
+            <Card Id="GIL_601" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_575" Count="1" Unconfirmed="1" />
+            <Card Id="TRL_523" Count="2" Unconfirmed="2" />
+            <Card Id="NEW1_021" Count="2" Unconfirmed="2" />
+            <Card Id="EX1_085" Count="2" Unconfirmed="2" />
+            <Card Id="TRL_526" Count="2" Unconfirmed="2" />
+            <Card Id="BOT_548" Count="1" Unconfirmed="1" />
+            <Card Id="DAL_578" Count="2" Unconfirmed="2" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="BOT_299" Count="1" />
+            <Card Id="BOT_559" Count="1" />
+            <Card Id="DAL_060" Count="1" />
+            <Card Id="DAL_063" Count="1" />
+            <Card Id="BOT_511" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>e3bf0cbe-f6cb-41e4-8101-0ff077c76968</GameId>
+          <PlayerHero>Mage</PlayerHero>
+          <OpponentHero>Warrior</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>8</Turns>
+          <StartTime>2019-04-15T21:29:55.1842842+02:00</StartTime>
+          <EndTime>2019-04-15T21:35:37.8234951+02:00</EndTime>
+          <PlayerName>totti1019#2201</PlayerName>
+          <OpponentName>Lala#2964</OpponentName>
+          <ReplayFile>totti1019#2201(Mage) vs Lala#2964(Warrior) 2135-150419.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>7</Rank>
+          <OpponentRank>7</OpponentRank>
+          <HearthstoneBuild>30103</HearthstoneBuild>
+          <PlayerCardbackId>157</PlayerCardbackId>
+          <OpponentCardbackId>3</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.222</Address>
+            <AuroraPassword>IhfhiC</AuroraPassword>
+            <ClientHandle>45357485</ClientHandle>
+            <GameHandle>44826920</GameHandle>
+            <Mission>2</Mission>
+            <Port>3724</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>ibgnOJ</SpectatorPassword>
+            <Version>1037104</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>66</RankedSeasonId>
+          <OpponentHeroCardId>HERO_01</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>287cfcdd-4188-4618-88fa-459fe0401c5e</DeckId>
+          <DeckName>Gera Mago</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsDeckId>1772660410</HsDeckId>
+          <PlayerCards>
+            <Card Id="DAL_578" Count="2" />
+            <Card Id="EX1_105" Count="2" />
+            <Card Id="EX1_085" Count="2" Unconfirmed="1" />
+            <Card Id="TRL_569" Count="2" Unconfirmed="1" />
+            <Card Id="NEW1_021" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_043" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_177" Count="2" />
+            <Card Id="TRL_523" Count="2" Unconfirmed="1" />
+            <Card Id="BOT_256" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_058" Count="1" Unconfirmed="1" />
+            <Card Id="DAL_575" Count="1" Unconfirmed="1" />
+            <Card Id="GIL_548" Count="2" Unconfirmed="2" />
+            <Card Id="EX1_066" Count="1" Unconfirmed="1" />
+            <Card Id="GIL_601" Count="2" Unconfirmed="2" />
+            <Card Id="TRL_526" Count="2" Unconfirmed="2" />
+            <Card Id="GIL_667" Count="1" Unconfirmed="1" />
+            <Card Id="BOT_548" Count="1" Unconfirmed="1" />
+            <Card Id="DAL_088" Count="1" Unconfirmed="1" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="BOT_059" Count="2" />
+            <Card Id="GIL_580" Count="1" />
+            <Card Id="EX1_391" Count="1" />
+            <Card Id="EX1_096" Count="1" />
+            <Card Id="BOT_559" Count="1" />
+            <Card Id="DAL_060" Count="1" />
+            <Card Id="GIL_113" Count="1" />
+            <Card Id="EX1_558" Count="1" />
+            <Card Id="BOT_548" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>95b4a97a-01bb-4d1f-98bb-92dda8db7ce1</GameId>
+          <PlayerHero>Mage</PlayerHero>
+          <OpponentHero>Shaman</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>8</Turns>
+          <StartTime>2019-06-15T07:13:01.5925649+02:00</StartTime>
+          <EndTime>2019-06-15T07:19:39.5654494+02:00</EndTime>
+          <PlayerName>totti1019#2201</PlayerName>
+          <OpponentName>Screamster#2444</OpponentName>
+          <ReplayFile>totti1019#2201(Mage) vs Screamster#2444(Shaman) 0719-150619.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>12</Rank>
+          <Stars>1</Stars>
+          <OpponentRank>12</OpponentRank>
+          <HearthstoneBuild>31532</HearthstoneBuild>
+          <PlayerCardbackId>157</PlayerCardbackId>
+          <OpponentCardbackId>1</OpponentCardbackId>
+          <FriendlyPlayerId>2</FriendlyPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.71</Address>
+            <AuroraPassword>JPNPnf</AuroraPassword>
+            <ClientHandle>45357485</ClientHandle>
+            <GameHandle>3539238</GameHandle>
+            <Mission>2</Mission>
+            <Port>3724</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>BNIEGC</SpectatorPassword>
+            <Version>1098864</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>68</RankedSeasonId>
+          <OpponentHeroCardId>HERO_02</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>96cf7b17-a017-4271-9ec1-0e3cee03e602</DeckId>
+          <DeckName>Mazzo Mago3</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsDeckId>1795559354</HsDeckId>
+          <PlayerCards>
+            <Card Id="TRL_515" Count="2" />
+            <Card Id="TRL_310" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_577" Count="2" Unconfirmed="1" />
+            <Card Id="TRL_509" Count="1" />
+            <Card Id="DAL_177" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_578" Count="2" />
+            <Card Id="CS2_023" Count="2" />
+            <Card Id="EX1_105" Count="2" Unconfirmed="1" />
+            <Card Id="NEW1_021" Count="1" />
+            <Card Id="DAL_608" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_575" Count="1" />
+            <Card Id="EX1_608" Count="2" Unconfirmed="1" />
+            <Card Id="CS2_027" Count="2" Unconfirmed="2" />
+            <Card Id="DAL_603" Count="2" Unconfirmed="2" />
+            <Card Id="EX1_085" Count="1" Unconfirmed="1" />
+            <Card Id="EX1_558" Count="1" Unconfirmed="1" />
+            <Card Id="BOT_548" Count="1" Unconfirmed="1" />
+            <Card Id="BOT_256" Count="2" Unconfirmed="2" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="BOT_451" Count="1" />
+            <Card Id="DAL_433" Count="1" />
+            <Card Id="GIL_586" Count="1" />
+            <Card Id="TRL_352" Count="1" />
+            <Card Id="DAL_049" Count="1" />
+            <Card Id="EX1_248" Count="2" />
+            <Card Id="TRL_060" Count="1" />
+            <Card Id="BOT_291" Count="1" />
+            <Card Id="BOT_245" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>deaa14da-245d-4225-a1a6-6358b311ccba</GameId>
+          <PlayerHero>Mage</PlayerHero>
+          <OpponentHero>Shaman</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>10</Turns>
+          <StartTime>2019-06-15T07:19:59.7831348+02:00</StartTime>
+          <EndTime>2019-06-15T07:27:58.5917751+02:00</EndTime>
+          <PlayerName>totti1019#2201</PlayerName>
+          <OpponentName>Dafik007#2292</OpponentName>
+          <ReplayFile>totti1019#2201(Mage) vs Dafik007#2292(Shaman) 0727-150619.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>12</Rank>
+          <Stars>2</Stars>
+          <HearthstoneBuild>31532</HearthstoneBuild>
+          <PlayerCardbackId>157</PlayerCardbackId>
+          <OpponentCardbackId>157</OpponentCardbackId>
+          <FriendlyPlayerId>2</FriendlyPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.197</Address>
+            <AuroraPassword>hkfhJP</AuroraPassword>
+            <ClientHandle>45357485</ClientHandle>
+            <GameHandle>19136768</GameHandle>
+            <Mission>2</Mission>
+            <Port>3724</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>akgniN</SpectatorPassword>
+            <Version>1098864</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>68</RankedSeasonId>
+          <OpponentHeroCardId>HERO_02a</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>96cf7b17-a017-4271-9ec1-0e3cee03e602</DeckId>
+          <DeckName>Mazzo Mago3</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsDeckId>1795559354</HsDeckId>
+          <PlayerCards>
+            <Card Id="EX1_085" Count="1" />
+            <Card Id="EX1_105" Count="2" />
+            <Card Id="TRL_509" Count="1" />
+            <Card Id="TRL_515" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_608" Count="2" Unconfirmed="1" />
+            <Card Id="BOT_548" Count="1" />
+            <Card Id="EX1_608" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_603" Count="2" Unconfirmed="1" />
+            <Card Id="BOT_256" Count="2" />
+            <Card Id="DAL_575" Count="1" />
+            <Card Id="CS2_023" Count="2" />
+            <Card Id="DAL_578" Count="2" Unconfirmed="1" />
+            <Card Id="NEW1_021" Count="1" />
+            <Card Id="TRL_310" Count="2" Unconfirmed="2" />
+            <Card Id="CS2_027" Count="2" Unconfirmed="2" />
+            <Card Id="DAL_577" Count="2" Unconfirmed="2" />
+            <Card Id="DAL_177" Count="2" Unconfirmed="2" />
+            <Card Id="EX1_558" Count="1" Unconfirmed="1" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="DAL_071" Count="1" />
+            <Card Id="EX1_238" Count="1" />
+            <Card Id="BOT_451" Count="1" />
+            <Card Id="DAL_433" Count="1" />
+            <Card Id="TRL_352" Count="1" />
+            <Card Id="DAL_049" Count="1" />
+            <Card Id="DAL_400" Count="1" />
+            <Card Id="BOT_291" Count="1" />
+            <Card Id="BOT_407" Count="1" />
+            <Card Id="TRL_151" Count="1" />
+            <Card Id="BOT_270" Count="1" />
+          </OpponentCards>
+        </Game>
       </Games>
       <Name>Mage</Name>
     </DeckStats>
@@ -56620,6 +59045,171 @@
             <Card Id="EX1_116" Count="1" />
             <Card Id="ICC_029" Count="1" />
             <Card Id="UNG_064" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>a6316b43-560c-4b95-9d76-f916462d65b7</GameId>
+          <PlayerHero>Warrior</PlayerHero>
+          <OpponentHero>Rogue</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Casual</GameMode>
+          <Result>Loss</Result>
+          <Turns>26</Turns>
+          <StartTime>2019-02-05T21:59:26.070786+01:00</StartTime>
+          <EndTime>2019-02-05T22:27:49.0972481+01:00</EndTime>
+          <PlayerName>totti1019#2201</PlayerName>
+          <OpponentName>iMerfy#2182</OpponentName>
+          <ReplayFile>totti1019#2201(Warrior) vs iMerfy#2182(Rogue) 2227-050219.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <HearthstoneBuild>28556</HearthstoneBuild>
+          <PlayerCardbackId>153</PlayerCardbackId>
+          <OpponentCardbackId>152</OpponentCardbackId>
+          <FriendlyPlayerId>2</FriendlyPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.77</Address>
+            <AuroraPassword>fFdmFa</AuroraPassword>
+            <ClientHandle>45357485</ClientHandle>
+            <GameHandle>16057086</GameHandle>
+            <Mission>2</Mission>
+            <Port>3724</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>DHJKHa</SpectatorPassword>
+            <Version>908291</Version>
+          </ServerInfo>
+          <GameType>GT_CASUAL</GameType>
+          <RankedSeasonId>64</RankedSeasonId>
+          <OpponentHeroCardId>HERO_03</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>edd2c5b6-db40-4914-9cf5-a1d059e78d17</DeckId>
+          <DeckName>Odd Warrior</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>2</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsDeckId>1708168928</HsDeckId>
+          <PlayerCards>
+            <Card Id="EX1_085" Count="2" />
+            <Card Id="TRL_323" Count="2" />
+            <Card Id="BOT_299" Count="2" />
+            <Card Id="TRL_526" Count="2" />
+            <Card Id="EX1_410" Count="2" />
+            <Card Id="CS2_112" Count="2" />
+            <Card Id="BOT_548" Count="1" />
+            <Card Id="TRL_321" Count="1" />
+            <Card Id="GIL_826" Count="1" />
+            <Card Id="EX1_407" Count="2" />
+            <Card Id="EX1_606" Count="2" />
+            <Card Id="UNG_957" Count="1" />
+            <Card Id="BOT_059" Count="2" />
+            <Card Id="UNG_923" Count="1" />
+            <Card Id="BOT_104" Count="2" />
+            <Card Id="EX1_572" Count="1" />
+            <Card Id="BOT_238" Count="1" />
+            <Card Id="LOOT_137" Count="1" />
+            <Card Id="UNG_072" Count="2" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="CS2_072" Count="1" />
+            <Card Id="EX1_134" Count="1" />
+            <Card Id="EX1_129" Count="1" />
+            <Card Id="LOOT_026" Count="1" />
+            <Card Id="GIL_672" Count="1" />
+            <Card Id="BOT_087" Count="1" />
+            <Card Id="BOT_548" Count="1" />
+            <Card Id="CS2_077" Count="1" />
+            <Card Id="ICC_827" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>2ad98c86-db33-41c0-bdcd-fdecee5c26be</GameId>
+          <PlayerHero>Warrior</PlayerHero>
+          <OpponentHero>Mage</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Casual</GameMode>
+          <Result>Loss</Result>
+          <Turns>22</Turns>
+          <StartTime>2019-02-05T22:28:13.3958051+01:00</StartTime>
+          <EndTime>2019-02-05T22:46:32.0528196+01:00</EndTime>
+          <PlayerName>totti1019#2201</PlayerName>
+          <OpponentName>Nightshark#2723</OpponentName>
+          <ReplayFile>totti1019#2201(Warrior) vs Nightshark#2723(Mage) 2246-050219.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <HearthstoneBuild>28556</HearthstoneBuild>
+          <PlayerCardbackId>153</PlayerCardbackId>
+          <OpponentCardbackId>129</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.188</Address>
+            <AuroraPassword>oAAjLf</AuroraPassword>
+            <ClientHandle>45357485</ClientHandle>
+            <GameHandle>11731891</GameHandle>
+            <Mission>2</Mission>
+            <Port>3724</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>JgobfF</SpectatorPassword>
+            <Version>908291</Version>
+          </ServerInfo>
+          <GameType>GT_CASUAL</GameType>
+          <RankedSeasonId>64</RankedSeasonId>
+          <OpponentHeroCardId>HERO_08</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>edd2c5b6-db40-4914-9cf5-a1d059e78d17</DeckId>
+          <DeckName>Odd Warrior</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>2</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsDeckId>1708168928</HsDeckId>
+          <PlayerCards>
+            <Card Id="EX1_606" Count="2" />
+            <Card Id="EX1_410" Count="2" />
+            <Card Id="TRL_323" Count="2" />
+            <Card Id="CS2_112" Count="2" />
+            <Card Id="UNG_072" Count="2" />
+            <Card Id="EX1_407" Count="2" />
+            <Card Id="TRL_526" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_572" Count="1" />
+            <Card Id="BOT_548" Count="1" />
+            <Card Id="GIL_826" Count="1" />
+            <Card Id="TRL_321" Count="1" />
+            <Card Id="EX1_085" Count="2" Unconfirmed="1" />
+            <Card Id="BOT_238" Count="1" />
+            <Card Id="BOT_299" Count="2" />
+            <Card Id="BOT_104" Count="2" />
+            <Card Id="UNG_957" Count="1" />
+            <Card Id="BOT_059" Count="2" />
+            <Card Id="UNG_923" Count="1" />
+            <Card Id="LOOT_137" Count="1" Unconfirmed="1" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="UNG_809" Count="2" />
+            <Card Id="TRL_390" Count="2" />
+            <Card Id="UNG_205" Count="2" />
+            <Card Id="GIL_614" Count="1" />
+            <Card Id="UNG_928" Count="1" />
+            <Card Id="GIL_838" Count="2" />
+            <Card Id="CS2_203" Count="1" />
+            <Card Id="UNG_946" Count="1" />
+            <Card Id="TRL_315" Count="2" />
+            <Card Id="LOOT_516" Count="1" />
+            <Card Id="GIL_645" Count="1" />
+            <Card Id="BOT_548" Count="1" />
+            <Card Id="BOT_256" Count="2" />
+            <Card Id="CS2_032" Count="2" />
+            <Card Id="TRL_316" Count="1" />
+            <Card Id="UNG_847" Count="2" />
+            <Card Id="GIL_826" Count="1" />
+            <Card Id="ICC_833" Count="1" />
           </OpponentCards>
         </Game>
       </Games>
